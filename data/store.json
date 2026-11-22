@@ -1,0 +1,1749 @@
+{
+  "scans": [
+    {
+      "id": "92236008-4813-4ec8-a34b-5c9f3f35840e",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:35:24.719Z",
+      "userAgent": "node",
+      "ip": "::ffff:127.0.0.1",
+      "referrer": ""
+    },
+    {
+      "id": "7755d7a9-1bb5-4fde-9f97-f45959c053cd",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:36:59.013Z",
+      "userAgent": "node",
+      "ip": "::ffff:127.0.0.1",
+      "referrer": ""
+    },
+    {
+      "id": "a541dee4-fedc-4b80-9ddf-a59c3d17aee6",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:37:26.307Z",
+      "userAgent": "node",
+      "ip": "::ffff:127.0.0.1",
+      "referrer": ""
+    },
+    {
+      "id": "30a1eaa2-a6f4-4b6a-b00b-7da8f8265a91",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:38:29.978Z",
+      "userAgent": "node",
+      "ip": "::ffff:127.0.0.1",
+      "referrer": ""
+    },
+    {
+      "id": "e32200fd-6750-4a3b-bc17-f2ba7e84ab90",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:39:51.794Z",
+      "userAgent": "node",
+      "ip": "::ffff:127.0.0.1",
+      "referrer": ""
+    },
+    {
+      "id": "b988452d-3c2b-48a1-b18b-2706bda4ee9a",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:46:34.572Z",
+      "userAgent": "node",
+      "ip": "::ffff:127.0.0.1",
+      "referrer": ""
+    },
+    {
+      "id": "db742134-5c16-4580-8051-80d271ab88ed",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:47:44.263Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+      "ip": "::1",
+      "referrer": "http://localhost:3000/"
+    },
+    {
+      "id": "e521ab91-bad6-4e7a-9a2c-6497c6be5fbd",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:53:43.010Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+      "ip": "::1",
+      "referrer": "http://localhost:3000/"
+    },
+    {
+      "id": "1dd89d25-adf1-47ec-afd6-4f92762a0a87",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:54:41.385Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+      "ip": "::1",
+      "referrer": "http://localhost:3000/"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "b1a0eaf6-b774-4cca-99d2-5f7d01c89439",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:35:24.729Z",
+      "rating": 5,
+      "feedbackOptions": [
+        "Comfortable shoes",
+        "Good product quality"
+      ],
+      "customComment": "Bought sneakers, fits great!",
+      "language": "en",
+      "sessionId": "sess_test_123"
+    },
+    {
+      "id": "ac75b40b-f73c-4f09-a5b2-34d4d016d354",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:36:59.030Z",
+      "rating": 5,
+      "feedbackOptions": [
+        "Comfortable shoes",
+        "Good product quality"
+      ],
+      "customComment": "Bought sneakers, fits great!",
+      "language": "en",
+      "sessionId": "sess_test_123"
+    },
+    {
+      "id": "e5671743-46f0-4de1-88e7-149f8d2ff207",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:37:26.314Z",
+      "rating": 5,
+      "feedbackOptions": [
+        "Comfortable shoes",
+        "Good product quality"
+      ],
+      "customComment": "Bought sneakers, fits great!",
+      "language": "en",
+      "sessionId": "sess_test_123"
+    },
+    {
+      "id": "381d60ce-4d77-4385-902d-b8443136417a",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:38:29.990Z",
+      "rating": 5,
+      "feedbackOptions": [
+        "Comfortable shoes",
+        "Good product quality"
+      ],
+      "customComment": "Bought sneakers, fits great!",
+      "language": "en",
+      "sessionId": "sess_test_123"
+    },
+    {
+      "id": "d24348b3-a8df-4371-9f05-2d42f1744ec0",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:39:51.804Z",
+      "rating": 5,
+      "feedbackOptions": [
+        "Comfortable shoes",
+        "Good product quality"
+      ],
+      "customComment": "Bought sneakers, fits great!",
+      "language": "en",
+      "sessionId": "sess_test_123"
+    },
+    {
+      "id": "3bba59bd-0dac-4c1d-b992-3716e739ed33",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:46:34.579Z",
+      "rating": 5,
+      "feedbackOptions": [
+        "Comfortable shoes",
+        "Good product quality"
+      ],
+      "customComment": "Bought sneakers, fits great!",
+      "language": "en",
+      "sessionId": "sess_test_123"
+    },
+    {
+      "id": "8742d1f9-cba8-40c1-b7e1-dc83ba7a37c9",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:48:23.899Z",
+      "rating": 5,
+      "feedbackOptions": [],
+      "customComment": "",
+      "language": "en",
+      "sessionId": "sess_y9ayd083t_1795333664182"
+    },
+    {
+      "id": "ee20fd77-9d83-430e-8720-e7e7608f2a74",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:48:55.325Z",
+      "rating": 5,
+      "feedbackOptions": [
+        "Great collection"
+      ],
+      "customComment": "",
+      "language": "en",
+      "sessionId": "sess_y9ayd083t_1795333664182"
+    },
+    {
+      "id": "491f2d77-eda9-421a-9b2b-5b4fe665c616",
+      "storeId": "new-kapil-shoes",
+      "timestamp": "2026-11-22T07:54:07.199Z",
+      "rating": 5,
+      "feedbackOptions": [],
+      "customComment": "",
+      "language": "hi",
+      "sessionId": "sess_ojqyoqlby_1795334022981"
+    }
+  ],
+  "generations": [
+    {
+      "id": "dea93ce5-0636-4eac-a675-f534d3c46fe5",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:35:24.743Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Great experience at New Kapil Shoes. Cushioned and easy on the feet. Five stars well deserved for great footwear and honest service. Note: Excellent store",
+          "style": "Short and direct",
+          "hash": "33114d6a734f204bf638e74f76e3ba63def155d6c889c5693155820340a0b474"
+        },
+        {
+          "id": "sug-2",
+          "text": "Found New Kapil Shoes to be one of the best footwear shops around. Honestly loved both the very comfortable to wear and neatly organized footwear display. The footwear feels super durable and looks great. Highly recommend New Kapil Shoes to anyone looking for durable footwear. Note: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "769a00672a8effac2864e83e316bba9d94ebe5e666a5701d24e1e6ef6cc8e85a"
+        },
+        {
+          "id": "sug-3",
+          "text": "Purchased footwear from New Kapil Shoes recently. The cushioned and easy on the feet is truly commendable. Great collection and fair prices. Very happy with the overall value and comfort. Note: Excellent store",
+          "style": "Simple and natural",
+          "hash": "15d7e6a068bcb6f06796dd0ae3cf439fb62388ce6bb0177b008b951e1033ddd1"
+        }
+      ]
+    },
+    {
+      "id": "9b3e20d0-91ae-4b7b-93db-b6bba63c48b1",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:35:24.760Z",
+      "rating": 5,
+      "language": "hi",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "यहां से जूते और चप्पल खरीदे, क्वालिटी में कोई कमी नहीं है। यह प्रतिष्ठान फुटवेयर की गुणवत्ता और उचित मूल्य निर्धारण का अच्छा संतुलन बनाए हुए है। ग्राहकों के साथ व्यवहार अत्यंत सम्मानजनक है। जूतों के लिए उत्कृष्ट दुकान। विशेष अनुभव: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "a6406d81d7278c945bd97fda25f36da8784cf94cfe42247ffcdf2594dac178ae"
+        },
+        {
+          "id": "sug-2",
+          "text": "न्यू कपिल शूज से बहुत अच्छी खरीदारी रही। पहनने में बेहद आरामदायक हैं। शानदार जूते और अच्छी सेवा के लिए धन्यवाद। विशेष अनुभव: Excellent store",
+          "style": "Short and direct",
+          "hash": "c0f8f85c238341a82e70743394f9cfb7adcfc6523016a447d19f2456290b8fd5"
+        },
+        {
+          "id": "sug-3",
+          "text": "मैंने खुद न्यू कपिल शूज जाकर अपने लिए फुटवेयर खरीदा। मुझे यहां आराम और फिटिंग एकदम सही है देखकर बहुत खुशी हुई। अपनी खरीदारी से पूरी तरह संतुष्ट हूं। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा। विशेष अनुभव: Excellent store",
+          "style": "Personal and expressive",
+          "hash": "800c59c1925a6f14c05b5935823e93b38748eb25209afab9cd8ac1dde4d7db44"
+        }
+      ]
+    },
+    {
+      "id": "8a9c8576-0f24-4178-bf93-ca402938c02f",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:35:24.781Z",
+      "rating": 5,
+      "language": "hinglish",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Footwear ke liye New Kapil Shoes ek genuine aur reliable shop hai. Sach me pehanne me bohot comfortable hai aur variety kaafi diverse aur fresh hai dono ekdum mast lage. Footwear pehan kar full comfortable feel hota hai. Definitely next time bhi yahi se shoes purchase karunga. My note: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "6f1da987c08e90ea030f4c9a15a1fc61f1d8a31e2a025ba33a2121c729fb4149"
+        },
+        {
+          "id": "sug-2",
+          "text": "Maine khud New Kapil Shoes jakar apne liye footwear choose kiya. Joote pehan kar laga ki shoes ka sole aur cushion kaafi soft hai. Full satisfaction mila. Super happy with the footwear and customer care. My note: Excellent store",
+          "style": "Personal and expressive",
+          "hash": "20c9373d643c72a27556b25183195f934a6225009b81f47310b974e7d5b1c324"
+        },
+        {
+          "id": "sug-3",
+          "text": "Agar achhe shoes aur slippers chahiye to New Kapil Shoes zaroor visit karein. Khas taur par shoes ka sole aur cushion kaafi soft hai, shoes, sandals aur slippers ka kaafi accha collection hai kaafi achha laga. Daily rough use ke liye bhi footwear durable lag raha hai. Super happy with the footwear and customer care. My note: Excellent store",
+          "style": "Detailed and descriptive",
+          "hash": "e03e2700985d2dcb11cf551eebcebf1a167401bc6b7138d44dbd90040fe9ea19"
+        }
+      ]
+    },
+    {
+      "id": "5cce2548-0f10-43e0-b19a-a9a3c275c640",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:36:59.075Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Great experience at New Kapil Shoes. Very comfortable to wear. Definitely worth visiting if you need quality shoes or sandals. Note: Excellent store",
+          "style": "Short and direct",
+          "hash": "2892b97b20279a2067bfcc679e9d7b89037349abd91fd15de3e0808c16fed7fc"
+        },
+        {
+          "id": "sug-2",
+          "text": "I was looking for comfortable daily footwear and found exactly what I needed at New Kapil Shoes. The establishment maintains a commendable standard in footwear quality and reasonable pricing. Customer interactions are handled courteously. Highly recommended for footwear needs. Note: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "07491cdb346c0799fde8c6be4576098f3b27f8d8117bea36b0ccdf4d34e4cfbf"
+        },
+        {
+          "id": "sug-3",
+          "text": "Really satisfied with my shopping experience at New Kapil Shoes. The cushioned and easy on the feet is truly commendable. Great collection and fair prices. Glad to support this local footwear business. Recommended! Note: Excellent store",
+          "style": "Simple and natural",
+          "hash": "628ced4a92d45b25be5bda4a3352d55c0a9b3aa2a08f7d1ed6b4e7d4e09004d1"
+        }
+      ]
+    },
+    {
+      "id": "2d8cb0d0-3a85-4594-b1e8-fb501894b054",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:36:59.201Z",
+      "rating": 5,
+      "language": "hi",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "न्यू कपिल शूज हमारे क्षेत्र की एक भरोसेमंद जूते-चप्पल की दुकान है। सच कहूं तो आराम और फिटिंग एकदम सही है और वैरायटी काफी अच्छी है दोनों ने दिल जीत लिया। जूते पहनकर काफी अच्छा लगा। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा। विशेष अनुभव: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "1a3ecbbf27bea2c912a7d1c46198f26b5abc5ca75b75a3c9df8bb2376bd4362b"
+        },
+        {
+          "id": "sug-2",
+          "text": "जूते-सैंडल की खरीदारी के लिए न्यू कपिल शूज एक शानदार विकल्प है। विशेष रूप से पहनने में बेहद आरामदायक हैं, डिजाइन और ऑप्शंस भरपूर हैं ने बहुत प्रभावित किया। हर रोज पहनने के लिए जूते काफी टिकाऊ महसूस होते हैं। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा। विशेष अनुभव: Excellent store",
+          "style": "Detailed and descriptive",
+          "hash": "2e3df50b5f2e263c0d949ce2dde0dd4238a0b6f8fda1fe756b91dc9bbde61f59"
+        },
+        {
+          "id": "sug-3",
+          "text": "मैंने खुद न्यू कपिल शूज जाकर अपने लिए फुटवेयर खरीदा। मुझे यहां पैरों के लिए बहुत कम्फर्टेबल हैं देखकर बहुत खुशी हुई। अपनी खरीदारी से पूरी तरह संतुष्ट हूं। आगे भी जरूरत पड़ने पर यहीं से खरीदारी करूंगा। विशेष अनुभव: Excellent store",
+          "style": "Personal and expressive",
+          "hash": "2740393dc7f63f372439f1dbd83af7271f7470ec90b91e9c9b5c7ab70a226c67"
+        }
+      ]
+    },
+    {
+      "id": "5b700d8d-3286-44f8-a662-9fc9edfd39f2",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:36:59.254Z",
+      "rating": 5,
+      "language": "hinglish",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Maine khud New Kapil Shoes jakar apne liye footwear choose kiya. Joote pehan kar laga ki pehanne me bohot comfortable hai. Full satisfaction mila. Definitely next time bhi yahi se shoes purchase karunga. My note: Excellent store",
+          "style": "Personal and expressive",
+          "hash": "fa492bee27d05a7ed9c727187bc71f6a1dd6c6c749455502292880d113831aad"
+        },
+        {
+          "id": "sug-2",
+          "text": "New Kapil Shoes par footwear ka collection dekh kar maza aa gaya. Khas taur par pehanne me bohot comfortable hai, variety kaafi diverse aur fresh hai kaafi achha laga. Daily rough use ke liye bhi footwear durable lag raha hai. Definitely next time bhi yahi se shoes purchase karunga. My note: Excellent store",
+          "style": "Detailed and descriptive",
+          "hash": "a97e3844690b8cae4280a9505bb941b538f091afd4e98f7ab666ea5ff6c4b500"
+        },
+        {
+          "id": "sug-3",
+          "text": "Recently New Kapil Shoes visit kiya, overall experience bohot shandar raha. Store footwear quality aur genuine pricing dono maintain karta hai. Customer dealing respectful aur professional hai. Definite recommendation. My note: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "6eaba659532f834107fc98d4b359d9792671eafd3647c6d6855e8e6c98888f58"
+        }
+      ]
+    },
+    {
+      "id": "44736b1e-8382-490f-80ec-0dc757a7386e",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:37:26.356Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. The very comfortable to wear is truly commendable. Great collection and fair prices. Definitely worth visiting if you need quality shoes or sandals. Note: Excellent store",
+          "style": "Simple and natural",
+          "hash": "e1724560a7e1ff1edb267924a95ad206f88669e072793cc8342de6abd6dce0ab"
+        },
+        {
+          "id": "sug-2",
+          "text": "I personally visited New Kapil Shoes to pick up a new pair of footwear. I was pleasantly surprised by how perfect all-day comfort they are. Truly happy with my purchase. Definitely worth visiting if you need quality shoes or sandals. Note: Excellent store",
+          "style": "Personal and expressive",
+          "hash": "b82f687aa44686cf910bcbd25dd640a6e3ced6fad3ac3f2c54fd2a0830d902b6"
+        },
+        {
+          "id": "sug-3",
+          "text": "Glad I visited New Kapil Shoes for my recent footwear purchase. Honestly loved both the perfect all-day comfort and neatly organized footwear display. The footwear feels super durable and looks great. A solid 10/10 shopping experience for footwear. Note: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "d7ca3e99e78875eed65480a8866b8c8852de82738bb0fc199ba1d58f70cf2eaa"
+        }
+      ]
+    },
+    {
+      "id": "3f54b76c-9122-4131-89a5-fa52ae2efc2e",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:37:26.537Z",
+      "rating": 5,
+      "language": "hi",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "न्यू कपिल शूज में शॉपिंग करने का अनुभव बहुत सुखद और संतोषजनक रहा। यह प्रतिष्ठान फुटवेयर की गुणवत्ता और उचित मूल्य निर्धारण का अच्छा संतुलन बनाए हुए है। ग्राहकों के साथ व्यवहार अत्यंत सम्मानजनक है। जूतों के लिए उत्कृष्ट दुकान। विशेष अनुभव: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "ba109406d79b0bc598da5b630e7e992d4b581a98b8924076b1fc63886ecb05b9"
+        },
+        {
+          "id": "sug-2",
+          "text": "मैंने खुद न्यू कपिल शूज जाकर अपने लिए फुटवेयर खरीदा। मुझे यहां आराम और फिटिंग एकदम सही है देखकर बहुत खुशी हुई। अपनी खरीदारी से पूरी तरह संतुष्ट हूं। न्यू कपिल शूज को 5 स्टार! विशेष अनुभव: Excellent store",
+          "style": "Personal and expressive",
+          "hash": "b27266b035d5221a1ce738944de55aa375f2aad41ebd3339476b997afcbcd8ba"
+        },
+        {
+          "id": "sug-3",
+          "text": "न्यू कपिल शूज में खरीदारी करके मन खुश हो गया। विशेष रूप से पैरों के लिए बहुत कम्फर्टेबल हैं, वैरायटी काफी अच्छी है ने बहुत प्रभावित किया। हर रोज पहनने के लिए जूते काफी टिकाऊ महसूस होते हैं। न्यू कपिल शूज को 5 स्टार! विशेष अनुभव: Excellent store",
+          "style": "Detailed and descriptive",
+          "hash": "c0d74215e0110fb21b2442353701b464f02d3cf1ec5e0f6acfdb1c87ba52c13f"
+        }
+      ]
+    },
+    {
+      "id": "e9ced319-06e1-41b5-8832-16b4e350988b",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:37:26.592Z",
+      "rating": 5,
+      "language": "hinglish",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Footwear ke liye New Kapil Shoes ek genuine aur reliable shop hai. Khas taur par pehanne me bohot comfortable hai, shoes, sandals aur slippers ka kaafi accha collection hai kaafi achha laga. Daily rough use ke liye bhi footwear durable lag raha hai. Aisi service aur quality har local store par honi chahiye. My note: Excellent store",
+          "style": "Detailed and descriptive",
+          "hash": "d092445416cdb39690fd49ec2bd06caaaef2b2ce1935fad1a365c8d3535519e5"
+        },
+        {
+          "id": "sug-2",
+          "text": "Maine khud New Kapil Shoes jakar apne liye footwear choose kiya. Joote pehan kar laga ki fitting aur comfort perfect hai. Full satisfaction mila. Sabhi ko New Kapil Shoes recommend karunga, zaroor visit karein! My note: Excellent store",
+          "style": "Personal and expressive",
+          "hash": "e029652550afcf62fb18212a150b14b522294ef1728a973f81cb0e00be5620ba"
+        },
+        {
+          "id": "sug-3",
+          "text": "Footwear ke liye New Kapil Shoes ek genuine aur reliable shop hai. Sach me fitting aur comfort perfect hai aur shoes, sandals aur slippers ka kaafi accha collection hai dono ekdum mast lage. Footwear pehan kar full comfortable feel hota hai. Paisa vasool shopping experience! 5 stars. My note: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "50febdce5559b5913c1316b2b71d36d95cf08df643a46423f987c220273e1f6f"
+        }
+      ]
+    },
+    {
+      "id": "75638072-d722-403f-8f66-b999fcb9968d",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:38:30.118Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "I was looking for comfortable daily footwear and found exactly what I needed at New Kapil Shoes. Honestly loved both the comfortable fit and wide variety of slippers and sandals. The footwear feels super durable and looks great. A solid 10/10 shopping experience for footwear. Note: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "e87ecea8ea6886c6252cc8c23734e2b3c61cd1dfd6dbf54c24f1346cf4240b11"
+        },
+        {
+          "id": "sug-2",
+          "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. A well-managed store with a reliable variety of everyday and formal footwear. Pricing is transparent and product durability is dependable. Note: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "555d51c9335ba5df2461a949702c52ae3b4e466c1cf879ec3690e2f859ad09bf"
+        },
+        {
+          "id": "sug-3",
+          "text": "Purchased footwear from New Kapil Shoes recently. Customer assistance is professional and the footwear collection meets high standards of comfort and craftsmanship. A trustworthy footwear destination. Note: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "8f4c0d27c008783a0e82365e7cc7c039c7565a2002c0db00b80480da6dd6fd8a"
+        }
+      ]
+    },
+    {
+      "id": "5523dfa6-b465-44b7-a04e-f9502630117d",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:38:30.232Z",
+      "rating": 5,
+      "language": "hi",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "पहली बार न्यू कपिल शूज गया और बहुत अच्छा लगा। व्यावसायिक दृष्टिकोण और ग्राहकों के प्रति सहयोग सराहनीय है। फुटवेयर की मजबूती और डिजाइन दोनों उत्तम हैं। विशेष अनुभव: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "78a4c25c31c203c364ee61354e176a954292915f978dc23a2c9803c50ec223ff"
+        },
+        {
+          "id": "sug-2",
+          "text": "न्यू कपिल शूज में खरीदारी करके मन खुश हो गया। जूतों और चप्पलों की व्यवस्थित रेंज और उचित मूल्य इस दुकान को विशेष बनाते हैं। समय पर सेवा और गुणवत्ता दोनों संतोषजनक हैं। विशेष अनुभव: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "274a3378b9a9e6b40187b17dfb8692f0d55a9b46b1cabaf5c10d327b9cd4a1b2"
+        },
+        {
+          "id": "sug-3",
+          "text": "न्यू कपिल शूज से बहुत अच्छी खरीदारी रही। पैरों के लिए बहुत कम्फर्टेबल हैं। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा। विशेष अनुभव: Excellent store",
+          "style": "Short and direct",
+          "hash": "4a17a22e93aa6bee8199537d0fed2308533e3aabfd2eea9fbdf95c9a581406e2"
+        }
+      ]
+    },
+    {
+      "id": "38eb4676-4f5b-4e2f-8eee-5aae2639d779",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:38:30.322Z",
+      "rating": 5,
+      "language": "hinglish",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "New Kapil Shoes par badhiya experience mila. shoes ka sole aur cushion kaafi soft hai. Sabhi ko New Kapil Shoes recommend karunga, zaroor visit karein! My note: Excellent store",
+          "style": "Short and direct",
+          "hash": "eacb83463d7bef3bd0592ebd3fb5d4bd104c55181f5eca1c9d442a02e058f53d"
+        },
+        {
+          "id": "sug-2",
+          "text": "New Kapil Shoes par badhiya experience mila. fitting aur comfort perfect hai. Super happy with the footwear and customer care. My note: Excellent store",
+          "style": "Short and direct",
+          "hash": "990c9d2cd7458c669aaad982b95cc6a8dcce6bc1fa49d366498e9e66fef1ef4a"
+        },
+        {
+          "id": "sug-3",
+          "text": "New Kapil Shoes par shopping ka experience smooth aur hassle-free tha. Sach me shoes ka sole aur cushion kaafi soft hai aur shoes, sandals aur slippers ka kaafi accha collection hai dono ekdum mast lage. Footwear pehan kar full comfortable feel hota hai. Sabhi ko New Kapil Shoes recommend karunga, zaroor visit karein! My note: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "31dae5c2efb7aff57ecdf1b6215cfd811fc988d0db7483d1621ae2029408002d"
+        }
+      ]
+    },
+    {
+      "id": "9142746c-b1b1-4713-9de1-73d67a8c3316",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:39:51.947Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Great experience at New Kapil Shoes. Perfect all-day comfort. A solid 10/10 shopping experience for footwear. Note: Excellent store",
+          "style": "Short and direct",
+          "hash": "18a0847730821d968b2384701ba05b8d463da17490a074bd75d6f7b054f18123"
+        },
+        {
+          "id": "sug-2",
+          "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. Found the footwear selection neatly displayed and prices very reasonable. The very comfortable to wear is truly commendable. Will surely visit again for my next footwear purchase. Note: Excellent store",
+          "style": "Simple and natural",
+          "hash": "762f4e8e543caf2cc10b579697ed6cfd32384e2a43355586978c77bd9034495c"
+        },
+        {
+          "id": "sug-3",
+          "text": "New Kapil Shoes is a dependable footwear shop. Specifically impressed by the comfortable fit, neatly organized footwear display. The footwear feels reliable and well-stitched for everyday use. Staff was courteous throughout the visit. Five stars well deserved for great footwear and honest service. Note: Excellent store",
+          "style": "Detailed and descriptive",
+          "hash": "578e8280b6a283b4ce6e419f4d1b41ed15b67e0e9914dec1a79a6afd7faf096d"
+        }
+      ]
+    },
+    {
+      "id": "7c08744a-82cf-4052-be10-0dbc52c54187",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:39:52.055Z",
+      "rating": 5,
+      "language": "hi",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "पहली बार न्यू कपिल शूज गया और बहुत अच्छा लगा। सच कहूं तो आराम और फिटिंग एकदम सही है और वैरायटी काफी अच्छी है दोनों ने दिल जीत लिया। जूते पहनकर काफी अच्छा लगा। फुटवेयर खरीदने के लिए न्यू कपिल शूज को जरूर रेकमेंड करूंगा। विशेष अनुभव: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "009b9ee161eff62f124548479c932cf34b11841a4ce3185030ebd61a740a9500"
+        },
+        {
+          "id": "sug-2",
+          "text": "न्यू कपिल शूज में शॉपिंग करने का अनुभव बहुत सुखद और संतोषजनक रहा। पहनने में बेहद आरामदायक हैं। सरल और सुखद अनुभव रहा। जूते टिकाऊ और आरामदायक हैं। फुटवेयर खरीदने के लिए न्यू कपिल शूज को जरूर रेकमेंड करूंगा। विशेष अनुभव: Excellent store",
+          "style": "Simple and natural",
+          "hash": "237cda7485895bd58fb11cee0683740b610cdae6ec1d18c69a591f6fbe9482f4"
+        },
+        {
+          "id": "sug-3",
+          "text": "हाल ही में न्यू कपिल शूज गया था और यहां का अनुभव काफी अच्छा था। सच कहूं तो पहनने में बेहद आरामदायक हैं और वैरायटी काफी अच्छी है दोनों ने दिल जीत लिया। जूते पहनकर काफी अच्छा लगा। आगे भी जरूरत पड़ने पर यहीं से खरीदारी करूंगा। विशेष अनुभव: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "eb0e98b8da63a6da698b28509b1eb71c411a770ae614b3f671302fbac83ab4fe"
+        }
+      ]
+    },
+    {
+      "id": "e00d2389-29d0-4e80-845a-6787d187e0ba",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:39:52.149Z",
+      "rating": 5,
+      "language": "hinglish",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "New Kapil Shoes par shopping ka experience smooth aur hassle-free tha. Professional service aur comfortable footwear selection. Reliable local shoe store jahan quality compromise nahi hoti. My note: Excellent store",
+          "style": "Professional and balanced",
+          "hash": "71c6d29c38b50ffca19c42919b10b118dc204c7bf2ba2c98a6ccc88c0c1d1fd0"
+        },
+        {
+          "id": "sug-2",
+          "text": "Shoe shopping ke liye New Kapil Shoes sach me ek behtareen jagah hai. pehanne me bohot comfortable hai. Honest dealing aur comfortable shoes mile. Recommended! Sabhi ko New Kapil Shoes recommend karunga, zaroor visit karein! My note: Excellent store",
+          "style": "Simple and natural",
+          "hash": "639c4e3c8ee587d5c5321158d894de920a6da8ba6e6c88298dab77ce0fbba963"
+        },
+        {
+          "id": "sug-3",
+          "text": "New Kapil Shoes par badhiya experience mila. pehanne me bohot comfortable hai. Paisa vasool shopping experience! 5 stars. My note: Excellent store",
+          "style": "Short and direct",
+          "hash": "79557373a26e05e8d1397e046b4369325d41b17ba5bb8ca1ffe5ec2e71a6b378"
+        }
+      ]
+    },
+    {
+      "id": "da0a4c0b-3ae5-48a8-9f8d-76197427778a",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:46:34.746Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "New Kapil Shoes is a dependable footwear shop. The cushioned and easy on the feet is truly commendable. Great collection and fair prices. A solid 10/10 shopping experience for footwear. Note: Excellent store",
+          "style": "Simple and natural",
+          "hash": "a50c75fae909f88936bed7bfee8c1f47f352dd27302a108597bc96ac84976c67"
+        },
+        {
+          "id": "sug-2",
+          "text": "Great experience at New Kapil Shoes. Very comfortable to wear. Glad to support this local footwear business. Recommended! Note: Excellent store",
+          "style": "Short and direct",
+          "hash": "df0df11300c18e0cec3a727c3165c9b90d7313481498455b3331ef32017d051c"
+        },
+        {
+          "id": "sug-3",
+          "text": "Found New Kapil Shoes to be one of the best footwear shops around. The very comfortable to wear is truly commendable. Honest dealings, good product variety, and very comfortable footwear. Definitely worth visiting if you need quality shoes or sandals. Note: Excellent store",
+          "style": "Simple and natural",
+          "hash": "7111e011f54742ec65512c11e0e4c39a5cc5f97c2a9c826b5bfadcc77ad941ca"
+        }
+      ]
+    },
+    {
+      "id": "78bcf2b3-1cf4-4242-ac84-9b4bd8cd831d",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:46:35.451Z",
+      "rating": 5,
+      "language": "hi",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "न्यू कपिल शूज में शॉपिंग करने का अनुभव बहुत सुखद और संतोषजनक रहा। दुकान पर जूतों और चप्पलों की अच्छी रेंज है और दाम भी सही हैं। आगे भी जरूरत पड़ने पर यहीं से खरीदारी करूंगा। विशेष अनुभव: Excellent store",
+          "style": "Simple and natural",
+          "hash": "e20ceffd8296f4244a61439005faa4321fef00f81c55e410cb14ed8bfb90792b"
+        },
+        {
+          "id": "sug-2",
+          "text": "यहां से जूते और चप्पल खरीदे, क्वालिटी में कोई कमी नहीं है। आराम और फिटिंग एकदम सही है। दाम भी वाजिब हैं और जूते बहुत अच्छे हैं। फुटवेयर खरीदने के लिए न्यू कपिल शूज को जरूर रेकमेंड करूंगा। विशेष अनुभव: Excellent store",
+          "style": "Simple and natural",
+          "hash": "0d5d1fde1e8321e5e3a9a9ff88853ad373fc9edcdb6dc5bd5c540013090fdbc4"
+        },
+        {
+          "id": "sug-3",
+          "text": "न्यू कपिल शूज हमारे क्षेत्र की एक भरोसेमंद जूते-चप्पल की दुकान है। सच कहूं तो पहनने में बेहद आरामदायक हैं और डिजाइन और ऑप्शंस भरपूर हैं दोनों ने दिल जीत लिया। जूते पहनकर काफी अच्छा लगा। आगे भी जरूरत पड़ने पर यहीं से खरीदारी करूंगा। विशेष अनुभव: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "a402562b12f1c4d4a901ccb9169f2942ef72c65f9ec03b830bc45c66d0c9cd06"
+        }
+      ]
+    },
+    {
+      "id": "28d218dc-8ed3-4c85-946c-48869f1c45f5",
+      "feedbackId": "",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:46:35.638Z",
+      "rating": 5,
+      "language": "hinglish",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Apne family ke liye footwear New Kapil Shoes se khareeda, full satisfaction mila. Sach me shoes ka sole aur cushion kaafi soft hai aur latest design mil jaate hain dono ekdum mast lage. Footwear pehan kar full comfortable feel hota hai. Super happy with the footwear and customer care. My note: Excellent store",
+          "style": "Friendly and conversational",
+          "hash": "07ffb3b50dde6c05eb9de74b9a3e7e910ad1f65dc6925a943728048434a0c70c"
+        },
+        {
+          "id": "sug-2",
+          "text": "New Kapil Shoes par shopping ka experience smooth aur hassle-free tha. Khas taur par fitting aur comfort perfect hai, shoes, sandals aur slippers ka kaafi accha collection hai kaafi achha laga. Daily rough use ke liye bhi footwear durable lag raha hai. Paisa vasool shopping experience! 5 stars. My note: Excellent store",
+          "style": "Detailed and descriptive",
+          "hash": "699cf1cf6611493345c22a35c6e87a2d696e06bf897e7ee6c929eea3ea916510"
+        },
+        {
+          "id": "sug-3",
+          "text": "Recently New Kapil Shoes visit kiya, overall experience bohot shandar raha. pehanne me bohot comfortable hai. Collection aur rate dono kaafi sahi hain. Paisa vasool shopping experience! 5 stars. My note: Excellent store",
+          "style": "Simple and natural",
+          "hash": "2b1723f5a896f8da57f47e4949a0d3ea213643ab55ecf6f4c64d7aa2b40c679a"
+        }
+      ]
+    },
+    {
+      "id": "e4c6f497-d896-4a5b-8066-51b6ed1ded95",
+      "feedbackId": "8742d1f9-cba8-40c1-b7e1-dc83ba7a37c9",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "timestamp": "2026-11-22T07:48:24.068Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "I personally visited New Kapil Shoes to pick up a new pair of footwear. I was pleasantly surprised by how good material they are. Truly happy with my purchase. Very happy with the overall value and comfort.",
+          "style": "Personal and expressive",
+          "hash": "bade4fc0e11c6b4e09621d12cbdb18b965ee5eff3596f76d0e3307ae0403efbd"
+        },
+        {
+          "id": "sug-2",
+          "text": "Great experience at New Kapil Shoes. Top quality. A solid 10/10 shopping experience for footwear.",
+          "style": "Short and direct",
+          "hash": "598764cb4af31bcee5f03e5d41a62227f9cd36c12936f1f61943f272072d8960"
+        },
+        {
+          "id": "sug-3",
+          "text": "I was looking for comfortable daily footwear and found exactly what I needed at New Kapil Shoes. A well-managed store with a reliable variety of everyday and formal footwear. Pricing is transparent and product durability is dependable.",
+          "style": "Professional and balanced",
+          "hash": "03a78c25f888e76f05fef8ad36ad10f0b68f47584e8d84b3ad813bc9740ef05e"
+        }
+      ]
+    },
+    {
+      "id": "85dcd8ba-f985-47ae-a5c4-95c13a5e09b4",
+      "feedbackId": "ee20fd77-9d83-430e-8720-e7e7608f2a74",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "timestamp": "2026-11-22T07:48:55.489Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Great experience at New Kapil Shoes. Impressive variety. Will surely visit again for my next footwear purchase.",
+          "style": "Short and direct",
+          "hash": "5198197fde03ffe33fec84b806f00670d46899152b093e0017e1f1115cbd6883"
+        },
+        {
+          "id": "sug-2",
+          "text": "Shopping at New Kapil Shoes was quick, convenient, and satisfying. The wide variety of slippers and sandals is truly commendable. Great collection and fair prices. A solid 10/10 shopping experience for footwear.",
+          "style": "Simple and natural",
+          "hash": "f5bd8ad25aafb7b6dbc7ba8ffea179a542cdf6f490919b27276749aa05b5a50f"
+        },
+        {
+          "id": "sug-3",
+          "text": "New Kapil Shoes is a dependable footwear shop. The wide variety of slippers and sandals is truly commendable. Honest dealings, good product variety, and very comfortable footwear. Glad to support this local footwear business. Recommended!",
+          "style": "Simple and natural",
+          "hash": "e5ee0b0f5b9a80a45df69720937f1b48f6814f5a73a72066a4478d0398bbc677"
+        }
+      ]
+    },
+    {
+      "id": "f706f528-695f-4088-8213-9e9211277c32",
+      "feedbackId": "ee20fd77-9d83-430e-8720-e7e7608f2a74",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "timestamp": "2026-11-22T07:49:00.733Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Really satisfied with my shopping experience at New Kapil Shoes. Really loved the neatly organized footwear display. The footwear feels super durable and looks great. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+          "style": "Friendly and conversational",
+          "hash": "985277bb19c2d1fe470875103dcf319a948b0bf76e2c4d11a337f8a297632763"
+        },
+        {
+          "id": "sug-2",
+          "text": "I personally visited New Kapil Shoes to pick up a new pair of footwear. I was pleasantly surprised by how neatly organized footwear display they are. Truly happy with my purchase. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+          "style": "Personal and expressive",
+          "hash": "88d4f1e20a3e6fa1c999a5b4a0a73b85b3329c13f10109b137df08df9a533d8d"
+        },
+        {
+          "id": "sug-3",
+          "text": "New Kapil Shoes is a dependable footwear shop. Specifically impressed by the wide variety of slippers and sandals. The footwear feels reliable and well-stitched for everyday use. Staff was courteous throughout the visit. Definitely worth visiting if you need quality shoes or sandals.",
+          "style": "Detailed and descriptive",
+          "hash": "71665d12754f67a0f1b4ebf91f24128520ceb52cab6b470256034be61276b4d3"
+        }
+      ]
+    },
+    {
+      "id": "9f3eed66-f01b-4328-b7eb-badb8459680d",
+      "feedbackId": "ee20fd77-9d83-430e-8720-e7e7608f2a74",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "timestamp": "2026-11-22T07:49:03.015Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Great experience at New Kapil Shoes. Wide variety of slippers and sandals. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+          "style": "Short and direct",
+          "hash": "cc1f7639bf9b732daf64c087a5480bfaa0105ec3e3b44d4382bb6337039c83a8"
+        },
+        {
+          "id": "sug-2",
+          "text": "I was looking for comfortable daily footwear and found exactly what I needed at New Kapil Shoes. Customer assistance is professional and the footwear collection meets high standards of comfort and craftsmanship. A trustworthy footwear destination.",
+          "style": "Professional and balanced",
+          "hash": "f96f5092de906e9edd7f1e7303828b085e39085e39359410bc785b7e8f3a1a2d"
+        },
+        {
+          "id": "sug-3",
+          "text": "Glad I visited New Kapil Shoes for my recent footwear purchase. The neatly organized footwear display is truly commendable. Great collection and fair prices. Very happy with the overall value and comfort.",
+          "style": "Simple and natural",
+          "hash": "a2dd17dda4a5c9d56807b23c6ceb535c866c8f7f5ef6de1aeab00829328ba2e8"
+        }
+      ]
+    },
+    {
+      "id": "b92bdcdb-464f-4306-8a71-ef976add3216",
+      "feedbackId": "ee20fd77-9d83-430e-8720-e7e7608f2a74",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "timestamp": "2026-11-22T07:49:06.156Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Glad I visited New Kapil Shoes for my recent footwear purchase. Found the footwear selection neatly displayed and prices very reasonable. The wide variety of slippers and sandals is truly commendable. Will surely visit again for my next footwear purchase.",
+          "style": "Simple and natural",
+          "hash": "c5490685fdfdcff6c503a2736c19c64d777f56284c3f5c6a62a984192866ccdc"
+        },
+        {
+          "id": "sug-2",
+          "text": "Found New Kapil Shoes to be one of the best footwear shops around. Found the footwear selection neatly displayed and prices very reasonable. The impressive variety is truly commendable. A solid 10/10 shopping experience for footwear.",
+          "style": "Simple and natural",
+          "hash": "b68c617f5f749b5672853096f8fba5c849d406c249d1b1fa1bcb0e61784a3d23"
+        },
+        {
+          "id": "sug-3",
+          "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. The neatly organized footwear display is truly commendable. Great collection and fair prices. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+          "style": "Simple and natural",
+          "hash": "82fb23ba9b72b95d59db26673fe2da3bcd9f1e1d359af263785b87e6c1a38221"
+        }
+      ]
+    },
+    {
+      "id": "3c7d7009-b914-4664-8465-9222da4a92ef",
+      "feedbackId": "ee20fd77-9d83-430e-8720-e7e7608f2a74",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "timestamp": "2026-11-22T07:49:12.339Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Great experience at New Kapil Shoes. Fresh collection of shoes. Very happy with the overall value and comfort.",
+          "style": "Short and direct",
+          "hash": "a161912d4bb125f01449875b35aa4ca543656c543053f5824588097bb6174c5d"
+        },
+        {
+          "id": "sug-2",
+          "text": "Visited New Kapil Shoes today and had a very pleasant experience. The wide variety of slippers and sandals is truly commendable. Great collection and fair prices. Definitely worth visiting if you need quality shoes or sandals.",
+          "style": "Simple and natural",
+          "hash": "a282263197130cc2f26d191eded2cc10475d309263d6ddd48ffa0f812aeb5de7"
+        },
+        {
+          "id": "sug-3",
+          "text": "Purchased footwear from New Kapil Shoes recently. Really loved the fresh collection of shoes. The footwear feels super durable and looks great. Definitely worth visiting if you need quality shoes or sandals.",
+          "style": "Friendly and conversational",
+          "hash": "8953570d2294f305832c1a7eb1a12b57286e29fb047565006d64ece8715e0c4a"
+        }
+      ]
+    },
+    {
+      "id": "366a5d13-b0d3-4c58-bd86-8d0537055a61",
+      "feedbackId": "491f2d77-eda9-421a-9b2b-5b4fe665c616",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_ojqyoqlby_1795334022981",
+      "timestamp": "2026-11-22T07:54:07.629Z",
+      "rating": 5,
+      "language": "hi",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "जूते-सैंडल की खरीदारी के लिए न्यू कपिल शूज एक शानदार विकल्प है। क्वालिटी बहुत मजबूत और टिकाऊ है। दाम भी वाजिब हैं और जूते बहुत अच्छे हैं। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा।",
+          "style": "Simple and natural",
+          "hash": "93b3977fc70fe45a036c2f72958f0a83a79df9af5ca5934d0206125f278eb1a4"
+        },
+        {
+          "id": "sug-2",
+          "text": "पहली बार न्यू कपिल शूज गया और बहुत अच्छा लगा। विशेष रूप से क्वालिटी बहुत मजबूत और टिकाऊ है, आराम और फिटिंग एकदम सही है ने बहुत प्रभावित किया। हर रोज पहनने के लिए जूते काफी टिकाऊ महसूस होते हैं। न्यू कपिल शूज को 5 स्टार!",
+          "style": "Detailed and descriptive",
+          "hash": "3e0140d3cead214a0062c84931f3866d0b5139f22b7ffc5350c16ced3235bcba"
+        },
+        {
+          "id": "sug-3",
+          "text": "न्यू कपिल शूज से फुटवेयर खरीदा, बहुत ही बढ़िया अनुभव रहा। दुकान पर जूतों और चप्पलों की अच्छी रेंज है और दाम भी सही हैं। न्यू कपिल शूज को 5 स्टार!",
+          "style": "Simple and natural",
+          "hash": "7f9283935413d1d70fd4a28f15e27c2666965abce45e7c68a72c62b92598462c"
+        }
+      ]
+    },
+    {
+      "id": "57ce432b-661a-4a68-b022-c1ac77f6262a",
+      "feedbackId": "491f2d77-eda9-421a-9b2b-5b4fe665c616",
+      "storeId": "new-kapil-shoes",
+      "sessionId": "sess_ojqyoqlby_1795334022981",
+      "timestamp": "2026-11-22T07:56:47.260Z",
+      "rating": 5,
+      "language": "en",
+      "engine": "algorithmic",
+      "suggestions": [
+        {
+          "id": "sug-1",
+          "text": "Really satisfied with my shopping experience at New Kapil Shoes. Found the footwear selection neatly displayed and prices very reasonable. The top quality is truly commendable. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+          "style": "Simple and natural",
+          "hash": "d0473f2948ec43bf61a856ef0e3638fdcc07f409a7acef666c4ca3a94b73150e"
+        },
+        {
+          "id": "sug-2",
+          "text": "Great local footwear store with a very welcoming environment. Specifically impressed by the durable build, comfortable fit. The footwear feels reliable and well-stitched for everyday use. Staff was courteous throughout the visit. A solid 10/10 shopping experience for footwear.",
+          "style": "Detailed and descriptive",
+          "hash": "1a583da8c620a4bd7d03273a22624df79ddd68f80b802815b3cf86adac2d1562"
+        },
+        {
+          "id": "sug-3",
+          "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. The establishment maintains a commendable standard in footwear quality and reasonable pricing. Customer interactions are handled courteously. Highly recommended for footwear needs.",
+          "style": "Professional and balanced",
+          "hash": "c15428a23f9dc8b00c918c7ebcd5efac603260248271348c92de7cd8c22119f5"
+        }
+      ]
+    }
+  ],
+  "copies": [
+    {
+      "id": "26ce1d38-0c2d-47ba-9ef8-e3f440ff1e93",
+      "feedbackId": "fb_1",
+      "suggestionId": "sug-1",
+      "text": "Great shoes at New Kapil Shoes!",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:35:24.790Z"
+    },
+    {
+      "id": "48b7ced5-99b6-4757-9a5a-b4b3feb30321",
+      "feedbackId": "fb_1",
+      "suggestionId": "sug-1",
+      "text": "Great shoes at New Kapil Shoes!",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:36:59.261Z"
+    },
+    {
+      "id": "07fb7f59-5ee0-45e8-9f76-e5649666af15",
+      "feedbackId": "fb_1",
+      "suggestionId": "sug-1",
+      "text": "Great shoes at New Kapil Shoes!",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:37:26.597Z"
+    },
+    {
+      "id": "0b8e087f-7710-479a-bb92-5753d67aa023",
+      "feedbackId": "fb_1",
+      "suggestionId": "sug-1",
+      "text": "Great shoes at New Kapil Shoes!",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:38:30.330Z"
+    },
+    {
+      "id": "d7208148-947e-4f90-847a-bab983d70277",
+      "feedbackId": "fb_1",
+      "suggestionId": "sug-1",
+      "text": "Great shoes at New Kapil Shoes!",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:39:52.156Z"
+    },
+    {
+      "id": "9063683d-6089-49df-9b57-c5cbee3f1d44",
+      "feedbackId": "fb_1",
+      "suggestionId": "sug-1",
+      "text": "Great shoes at New Kapil Shoes!",
+      "sessionId": "sess_test_123",
+      "timestamp": "2026-11-22T07:46:35.647Z"
+    },
+    {
+      "id": "ae9f08e7-a1cb-49c2-b4e2-1725bc71cc25",
+      "feedbackId": "ee20fd77-9d83-430e-8720-e7e7608f2a74",
+      "suggestionId": "sug-1",
+      "text": "Great experience at New Kapil Shoes. Fresh collection of shoes. Very happy with the overall value and comfort.",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "timestamp": "2026-11-22T07:49:22.880Z"
+    }
+  ],
+  "googleClicks": [
+    {
+      "id": "3663aab6-d0f2-44f1-9ba6-3f028814c984",
+      "feedbackId": "fb_1",
+      "sessionId": "sess_test_123",
+      "rating": 5,
+      "timestamp": "2026-11-22T07:35:24.796Z"
+    },
+    {
+      "id": "e8bbbbb3-d1a0-441d-a684-c636d458c72c",
+      "feedbackId": "fb_1",
+      "sessionId": "sess_test_123",
+      "rating": 5,
+      "timestamp": "2026-11-22T07:36:59.266Z"
+    },
+    {
+      "id": "f3310482-d51c-4f69-86e3-0d099bcad2bd",
+      "feedbackId": "fb_1",
+      "sessionId": "sess_test_123",
+      "rating": 5,
+      "timestamp": "2026-11-22T07:37:26.600Z"
+    },
+    {
+      "id": "33b291ad-3714-422c-a505-e1f99e2bc6c0",
+      "feedbackId": "fb_1",
+      "sessionId": "sess_test_123",
+      "rating": 5,
+      "timestamp": "2026-11-22T07:38:30.337Z"
+    },
+    {
+      "id": "5fb1a1c5-b1f1-476d-959c-b673715fba8b",
+      "feedbackId": "fb_1",
+      "sessionId": "sess_test_123",
+      "rating": 5,
+      "timestamp": "2026-11-22T07:39:52.162Z"
+    },
+    {
+      "id": "815826a7-512b-4840-aa8f-81670d2f2c4f",
+      "feedbackId": "fb_1",
+      "sessionId": "sess_test_123",
+      "rating": 5,
+      "timestamp": "2026-11-22T07:46:35.654Z"
+    },
+    {
+      "id": "98a49887-38a7-414e-8f64-dad59b3be630",
+      "feedbackId": "ee20fd77-9d83-430e-8720-e7e7608f2a74",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "rating": 5,
+      "timestamp": "2026-11-22T07:49:31.695Z"
+    }
+  ],
+  "instagramClicks": [
+    {
+      "id": "c5034438-5343-4b47-a612-e9e4b9317276",
+      "sessionId": "sess_test_123",
+      "source": "thank_you_screen",
+      "timestamp": "2026-11-22T07:35:24.802Z"
+    },
+    {
+      "id": "63b8cd12-9fb8-485a-974a-73402b16ceaf",
+      "sessionId": "sess_test_123",
+      "source": "thank_you_screen",
+      "timestamp": "2026-11-22T07:36:59.273Z"
+    },
+    {
+      "id": "93d0ffe4-3b52-4fbd-ad7d-79d23b0b9fd1",
+      "sessionId": "sess_test_123",
+      "source": "thank_you_screen",
+      "timestamp": "2026-11-22T07:37:26.605Z"
+    },
+    {
+      "id": "45bd5377-aa40-4047-8e73-cc868543609f",
+      "sessionId": "sess_test_123",
+      "source": "thank_you_screen",
+      "timestamp": "2026-11-22T07:38:30.343Z"
+    },
+    {
+      "id": "f740ce41-aff8-4449-bf70-073502c5564b",
+      "sessionId": "sess_test_123",
+      "source": "thank_you_screen",
+      "timestamp": "2026-11-22T07:39:52.168Z"
+    },
+    {
+      "id": "680b6847-24bd-4b55-b5d2-4bca445bb10c",
+      "sessionId": "sess_test_123",
+      "source": "thank_you_screen",
+      "timestamp": "2026-11-22T07:46:35.661Z"
+    },
+    {
+      "id": "310b4b33-63e1-4935-9ac7-52bd01477c74",
+      "sessionId": "sess_y9ayd083t_1795333664182",
+      "source": "thank_you_screen",
+      "timestamp": "2026-11-22T07:50:14.330Z"
+    }
+  ],
+  "recentReviewHashes": {
+    "33114d6a734f204bf638e74f76e3ba63def155d6c889c5693155820340a0b474": {
+      "text": "Great experience at New Kapil Shoes. Cushioned and easy on the feet. Five stars well deserved for great footwear and honest service. Note: Excellent store",
+      "normalized": "great experience at new kapil shoes cushioned and easy on the feet five stars well deserved for great footwear and honest service note excellent store",
+      "timestamp": "2026-11-22T07:35:24.743Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Short and direct"
+    },
+    "769a00672a8effac2864e83e316bba9d94ebe5e666a5701d24e1e6ef6cc8e85a": {
+      "text": "Found New Kapil Shoes to be one of the best footwear shops around. Honestly loved both the very comfortable to wear and neatly organized footwear display. The footwear feels super durable and looks great. Highly recommend New Kapil Shoes to anyone looking for durable footwear. Note: Excellent store",
+      "normalized": "found new kapil shoes to be one of the best footwear shops around honestly loved both the very comfortable to wear and neatly organized footwear display the footwear feels super durable and looks great highly recommend new kapil shoes to anyone looking for durable footwear note excellent store",
+      "timestamp": "2026-11-22T07:35:24.743Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Friendly and conversational"
+    },
+    "15d7e6a068bcb6f06796dd0ae3cf439fb62388ce6bb0177b008b951e1033ddd1": {
+      "text": "Purchased footwear from New Kapil Shoes recently. The cushioned and easy on the feet is truly commendable. Great collection and fair prices. Very happy with the overall value and comfort. Note: Excellent store",
+      "normalized": "purchased footwear from new kapil shoes recently the cushioned and easy on the feet is truly commendable great collection and fair prices very happy with the overall value and comfort note excellent store",
+      "timestamp": "2026-11-22T07:35:24.743Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "a6406d81d7278c945bd97fda25f36da8784cf94cfe42247ffcdf2594dac178ae": {
+      "text": "यहां से जूते और चप्पल खरीदे, क्वालिटी में कोई कमी नहीं है। यह प्रतिष्ठान फुटवेयर की गुणवत्ता और उचित मूल्य निर्धारण का अच्छा संतुलन बनाए हुए है। ग्राहकों के साथ व्यवहार अत्यंत सम्मानजनक है। जूतों के लिए उत्कृष्ट दुकान। विशेष अनुभव: Excellent store",
+      "normalized": "यह स ज त और चप पल खर द क व ल ट म क ई कम नह ह यह प रत ष ठ न फ टव यर क ग णवत त और उच त म ल य न र ध रण क अच छ स त लन बन ए ह ए ह ग र हक क स थ व यवह र अत य त सम म नजनक ह ज त क ल ए उत क ष ट द क न व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:35:24.760Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Professional and balanced"
+    },
+    "c0f8f85c238341a82e70743394f9cfb7adcfc6523016a447d19f2456290b8fd5": {
+      "text": "न्यू कपिल शूज से बहुत अच्छी खरीदारी रही। पहनने में बेहद आरामदायक हैं। शानदार जूते और अच्छी सेवा के लिए धन्यवाद। विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज स बह त अच छ खर द र रह पहनन म ब हद आर मद यक ह श नद र ज त और अच छ स व क ल ए धन यव द व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:35:24.760Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Short and direct"
+    },
+    "800c59c1925a6f14c05b5935823e93b38748eb25209afab9cd8ac1dde4d7db44": {
+      "text": "मैंने खुद न्यू कपिल शूज जाकर अपने लिए फुटवेयर खरीदा। मुझे यहां आराम और फिटिंग एकदम सही है देखकर बहुत खुशी हुई। अपनी खरीदारी से पूरी तरह संतुष्ट हूं। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "म न ख द न य कप ल श ज ज कर अपन ल ए फ टव यर खर द म झ यह आर म और फ ट ग एकदम सह ह द खकर बह त ख श ह ई अपन खर द र स प र तरह स त ष ट ह प स वस ल खर द र सभ क यह आन क सल ह द ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:35:24.760Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Personal and expressive"
+    },
+    "6f1da987c08e90ea030f4c9a15a1fc61f1d8a31e2a025ba33a2121c729fb4149": {
+      "text": "Footwear ke liye New Kapil Shoes ek genuine aur reliable shop hai. Sach me pehanne me bohot comfortable hai aur variety kaafi diverse aur fresh hai dono ekdum mast lage. Footwear pehan kar full comfortable feel hota hai. Definitely next time bhi yahi se shoes purchase karunga. My note: Excellent store",
+      "normalized": "footwear ke liye new kapil shoes ek genuine aur reliable shop hai sach me pehanne me bohot comfortable hai aur variety kaafi diverse aur fresh hai dono ekdum mast lage footwear pehan kar full comfortable feel hota hai definitely next time bhi yahi se shoes purchase karunga my note excellent store",
+      "timestamp": "2026-11-22T07:35:24.781Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Friendly and conversational"
+    },
+    "20c9373d643c72a27556b25183195f934a6225009b81f47310b974e7d5b1c324": {
+      "text": "Maine khud New Kapil Shoes jakar apne liye footwear choose kiya. Joote pehan kar laga ki shoes ka sole aur cushion kaafi soft hai. Full satisfaction mila. Super happy with the footwear and customer care. My note: Excellent store",
+      "normalized": "maine khud new kapil shoes jakar apne liye footwear choose kiya joote pehan kar laga ki shoes ka sole aur cushion kaafi soft hai full satisfaction mila super happy with the footwear and customer care my note excellent store",
+      "timestamp": "2026-11-22T07:35:24.781Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Personal and expressive"
+    },
+    "e03e2700985d2dcb11cf551eebcebf1a167401bc6b7138d44dbd90040fe9ea19": {
+      "text": "Agar achhe shoes aur slippers chahiye to New Kapil Shoes zaroor visit karein. Khas taur par shoes ka sole aur cushion kaafi soft hai, shoes, sandals aur slippers ka kaafi accha collection hai kaafi achha laga. Daily rough use ke liye bhi footwear durable lag raha hai. Super happy with the footwear and customer care. My note: Excellent store",
+      "normalized": "agar achhe shoes aur slippers chahiye to new kapil shoes zaroor visit karein khas taur par shoes ka sole aur cushion kaafi soft hai shoes sandals aur slippers ka kaafi accha collection hai kaafi achha laga daily rough use ke liye bhi footwear durable lag raha hai super happy with the footwear and customer care my note excellent store",
+      "timestamp": "2026-11-22T07:35:24.781Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Detailed and descriptive"
+    },
+    "2892b97b20279a2067bfcc679e9d7b89037349abd91fd15de3e0808c16fed7fc": {
+      "text": "Great experience at New Kapil Shoes. Very comfortable to wear. Definitely worth visiting if you need quality shoes or sandals. Note: Excellent store",
+      "normalized": "great experience at new kapil shoes very comfortable to wear definitely worth visiting if you need quality shoes or sandals note excellent store",
+      "timestamp": "2026-11-22T07:36:59.075Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Short and direct"
+    },
+    "07491cdb346c0799fde8c6be4576098f3b27f8d8117bea36b0ccdf4d34e4cfbf": {
+      "text": "I was looking for comfortable daily footwear and found exactly what I needed at New Kapil Shoes. The establishment maintains a commendable standard in footwear quality and reasonable pricing. Customer interactions are handled courteously. Highly recommended for footwear needs. Note: Excellent store",
+      "normalized": "i was looking for comfortable daily footwear and found exactly what i needed at new kapil shoes the establishment maintains a commendable standard in footwear quality and reasonable pricing customer interactions are handled courteously highly recommended for footwear needs note excellent store",
+      "timestamp": "2026-11-22T07:36:59.075Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Professional and balanced"
+    },
+    "628ced4a92d45b25be5bda4a3352d55c0a9b3aa2a08f7d1ed6b4e7d4e09004d1": {
+      "text": "Really satisfied with my shopping experience at New Kapil Shoes. The cushioned and easy on the feet is truly commendable. Great collection and fair prices. Glad to support this local footwear business. Recommended! Note: Excellent store",
+      "normalized": "really satisfied with my shopping experience at new kapil shoes the cushioned and easy on the feet is truly commendable great collection and fair prices glad to support this local footwear business recommended note excellent store",
+      "timestamp": "2026-11-22T07:36:59.075Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "1a3ecbbf27bea2c912a7d1c46198f26b5abc5ca75b75a3c9df8bb2376bd4362b": {
+      "text": "न्यू कपिल शूज हमारे क्षेत्र की एक भरोसेमंद जूते-चप्पल की दुकान है। सच कहूं तो आराम और फिटिंग एकदम सही है और वैरायटी काफी अच्छी है दोनों ने दिल जीत लिया। जूते पहनकर काफी अच्छा लगा। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज हम र क ष त र क एक भर स म द ज त चप पल क द क न ह सच कह त आर म और फ ट ग एकदम सह ह और व र यट क फ अच छ ह द न न द ल ज त ल य ज त पहनकर क फ अच छ लग प स वस ल खर द र सभ क यह आन क सल ह द ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:36:59.201Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Friendly and conversational"
+    },
+    "2e3df50b5f2e263c0d949ce2dde0dd4238a0b6f8fda1fe756b91dc9bbde61f59": {
+      "text": "जूते-सैंडल की खरीदारी के लिए न्यू कपिल शूज एक शानदार विकल्प है। विशेष रूप से पहनने में बेहद आरामदायक हैं, डिजाइन और ऑप्शंस भरपूर हैं ने बहुत प्रभावित किया। हर रोज पहनने के लिए जूते काफी टिकाऊ महसूस होते हैं। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "ज त स डल क खर द र क ल ए न य कप ल श ज एक श नद र व कल प ह व श ष र प स पहनन म ब हद आर मद यक ह ड ज इन और ऑप श स भरप र ह न बह त प रभ व त क य हर र ज पहनन क ल ए ज त क फ ट क ऊ महस स ह त ह प स वस ल खर द र सभ क यह आन क सल ह द ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:36:59.201Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Detailed and descriptive"
+    },
+    "2740393dc7f63f372439f1dbd83af7271f7470ec90b91e9c9b5c7ab70a226c67": {
+      "text": "मैंने खुद न्यू कपिल शूज जाकर अपने लिए फुटवेयर खरीदा। मुझे यहां पैरों के लिए बहुत कम्फर्टेबल हैं देखकर बहुत खुशी हुई। अपनी खरीदारी से पूरी तरह संतुष्ट हूं। आगे भी जरूरत पड़ने पर यहीं से खरीदारी करूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "म न ख द न य कप ल श ज ज कर अपन ल ए फ टव यर खर द म झ यह प र क ल ए बह त कम फर ट बल ह द खकर बह त ख श ह ई अपन खर द र स प र तरह स त ष ट ह आग भ जर रत पड न पर यह स खर द र कर ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:36:59.201Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Personal and expressive"
+    },
+    "fa492bee27d05a7ed9c727187bc71f6a1dd6c6c749455502292880d113831aad": {
+      "text": "Maine khud New Kapil Shoes jakar apne liye footwear choose kiya. Joote pehan kar laga ki pehanne me bohot comfortable hai. Full satisfaction mila. Definitely next time bhi yahi se shoes purchase karunga. My note: Excellent store",
+      "normalized": "maine khud new kapil shoes jakar apne liye footwear choose kiya joote pehan kar laga ki pehanne me bohot comfortable hai full satisfaction mila definitely next time bhi yahi se shoes purchase karunga my note excellent store",
+      "timestamp": "2026-11-22T07:36:59.254Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Personal and expressive"
+    },
+    "a97e3844690b8cae4280a9505bb941b538f091afd4e98f7ab666ea5ff6c4b500": {
+      "text": "New Kapil Shoes par footwear ka collection dekh kar maza aa gaya. Khas taur par pehanne me bohot comfortable hai, variety kaafi diverse aur fresh hai kaafi achha laga. Daily rough use ke liye bhi footwear durable lag raha hai. Definitely next time bhi yahi se shoes purchase karunga. My note: Excellent store",
+      "normalized": "new kapil shoes par footwear ka collection dekh kar maza aa gaya khas taur par pehanne me bohot comfortable hai variety kaafi diverse aur fresh hai kaafi achha laga daily rough use ke liye bhi footwear durable lag raha hai definitely next time bhi yahi se shoes purchase karunga my note excellent store",
+      "timestamp": "2026-11-22T07:36:59.254Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Detailed and descriptive"
+    },
+    "6eaba659532f834107fc98d4b359d9792671eafd3647c6d6855e8e6c98888f58": {
+      "text": "Recently New Kapil Shoes visit kiya, overall experience bohot shandar raha. Store footwear quality aur genuine pricing dono maintain karta hai. Customer dealing respectful aur professional hai. Definite recommendation. My note: Excellent store",
+      "normalized": "recently new kapil shoes visit kiya overall experience bohot shandar raha store footwear quality aur genuine pricing dono maintain karta hai customer dealing respectful aur professional hai definite recommendation my note excellent store",
+      "timestamp": "2026-11-22T07:36:59.254Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Professional and balanced"
+    },
+    "e1724560a7e1ff1edb267924a95ad206f88669e072793cc8342de6abd6dce0ab": {
+      "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. The very comfortable to wear is truly commendable. Great collection and fair prices. Definitely worth visiting if you need quality shoes or sandals. Note: Excellent store",
+      "normalized": "came to new kapil shoes based on recommendations and was not disappointed the very comfortable to wear is truly commendable great collection and fair prices definitely worth visiting if you need quality shoes or sandals note excellent store",
+      "timestamp": "2026-11-22T07:37:26.356Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "b82f687aa44686cf910bcbd25dd640a6e3ced6fad3ac3f2c54fd2a0830d902b6": {
+      "text": "I personally visited New Kapil Shoes to pick up a new pair of footwear. I was pleasantly surprised by how perfect all-day comfort they are. Truly happy with my purchase. Definitely worth visiting if you need quality shoes or sandals. Note: Excellent store",
+      "normalized": "i personally visited new kapil shoes to pick up a new pair of footwear i was pleasantly surprised by how perfect all day comfort they are truly happy with my purchase definitely worth visiting if you need quality shoes or sandals note excellent store",
+      "timestamp": "2026-11-22T07:37:26.356Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Personal and expressive"
+    },
+    "d7ca3e99e78875eed65480a8866b8c8852de82738bb0fc199ba1d58f70cf2eaa": {
+      "text": "Glad I visited New Kapil Shoes for my recent footwear purchase. Honestly loved both the perfect all-day comfort and neatly organized footwear display. The footwear feels super durable and looks great. A solid 10/10 shopping experience for footwear. Note: Excellent store",
+      "normalized": "glad i visited new kapil shoes for my recent footwear purchase honestly loved both the perfect all day comfort and neatly organized footwear display the footwear feels super durable and looks great a solid 10 10 shopping experience for footwear note excellent store",
+      "timestamp": "2026-11-22T07:37:26.356Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Friendly and conversational"
+    },
+    "ba109406d79b0bc598da5b630e7e992d4b581a98b8924076b1fc63886ecb05b9": {
+      "text": "न्यू कपिल शूज में शॉपिंग करने का अनुभव बहुत सुखद और संतोषजनक रहा। यह प्रतिष्ठान फुटवेयर की गुणवत्ता और उचित मूल्य निर्धारण का अच्छा संतुलन बनाए हुए है। ग्राहकों के साथ व्यवहार अत्यंत सम्मानजनक है। जूतों के लिए उत्कृष्ट दुकान। विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज म श प ग करन क अन भव बह त स खद और स त षजनक रह यह प रत ष ठ न फ टव यर क ग णवत त और उच त म ल य न र ध रण क अच छ स त लन बन ए ह ए ह ग र हक क स थ व यवह र अत य त सम म नजनक ह ज त क ल ए उत क ष ट द क न व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:37:26.537Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Professional and balanced"
+    },
+    "b27266b035d5221a1ce738944de55aa375f2aad41ebd3339476b997afcbcd8ba": {
+      "text": "मैंने खुद न्यू कपिल शूज जाकर अपने लिए फुटवेयर खरीदा। मुझे यहां आराम और फिटिंग एकदम सही है देखकर बहुत खुशी हुई। अपनी खरीदारी से पूरी तरह संतुष्ट हूं। न्यू कपिल शूज को 5 स्टार! विशेष अनुभव: Excellent store",
+      "normalized": "म न ख द न य कप ल श ज ज कर अपन ल ए फ टव यर खर द म झ यह आर म और फ ट ग एकदम सह ह द खकर बह त ख श ह ई अपन खर द र स प र तरह स त ष ट ह न य कप ल श ज क 5 स ट र व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:37:26.537Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Personal and expressive"
+    },
+    "c0d74215e0110fb21b2442353701b464f02d3cf1ec5e0f6acfdb1c87ba52c13f": {
+      "text": "न्यू कपिल शूज में खरीदारी करके मन खुश हो गया। विशेष रूप से पैरों के लिए बहुत कम्फर्टेबल हैं, वैरायटी काफी अच्छी है ने बहुत प्रभावित किया। हर रोज पहनने के लिए जूते काफी टिकाऊ महसूस होते हैं। न्यू कपिल शूज को 5 स्टार! विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज म खर द र करक मन ख श ह गय व श ष र प स प र क ल ए बह त कम फर ट बल ह व र यट क फ अच छ ह न बह त प रभ व त क य हर र ज पहनन क ल ए ज त क फ ट क ऊ महस स ह त ह न य कप ल श ज क 5 स ट र व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:37:26.537Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Detailed and descriptive"
+    },
+    "d092445416cdb39690fd49ec2bd06caaaef2b2ce1935fad1a365c8d3535519e5": {
+      "text": "Footwear ke liye New Kapil Shoes ek genuine aur reliable shop hai. Khas taur par pehanne me bohot comfortable hai, shoes, sandals aur slippers ka kaafi accha collection hai kaafi achha laga. Daily rough use ke liye bhi footwear durable lag raha hai. Aisi service aur quality har local store par honi chahiye. My note: Excellent store",
+      "normalized": "footwear ke liye new kapil shoes ek genuine aur reliable shop hai khas taur par pehanne me bohot comfortable hai shoes sandals aur slippers ka kaafi accha collection hai kaafi achha laga daily rough use ke liye bhi footwear durable lag raha hai aisi service aur quality har local store par honi chahiye my note excellent store",
+      "timestamp": "2026-11-22T07:37:26.592Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Detailed and descriptive"
+    },
+    "e029652550afcf62fb18212a150b14b522294ef1728a973f81cb0e00be5620ba": {
+      "text": "Maine khud New Kapil Shoes jakar apne liye footwear choose kiya. Joote pehan kar laga ki fitting aur comfort perfect hai. Full satisfaction mila. Sabhi ko New Kapil Shoes recommend karunga, zaroor visit karein! My note: Excellent store",
+      "normalized": "maine khud new kapil shoes jakar apne liye footwear choose kiya joote pehan kar laga ki fitting aur comfort perfect hai full satisfaction mila sabhi ko new kapil shoes recommend karunga zaroor visit karein my note excellent store",
+      "timestamp": "2026-11-22T07:37:26.592Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Personal and expressive"
+    },
+    "50febdce5559b5913c1316b2b71d36d95cf08df643a46423f987c220273e1f6f": {
+      "text": "Footwear ke liye New Kapil Shoes ek genuine aur reliable shop hai. Sach me fitting aur comfort perfect hai aur shoes, sandals aur slippers ka kaafi accha collection hai dono ekdum mast lage. Footwear pehan kar full comfortable feel hota hai. Paisa vasool shopping experience! 5 stars. My note: Excellent store",
+      "normalized": "footwear ke liye new kapil shoes ek genuine aur reliable shop hai sach me fitting aur comfort perfect hai aur shoes sandals aur slippers ka kaafi accha collection hai dono ekdum mast lage footwear pehan kar full comfortable feel hota hai paisa vasool shopping experience 5 stars my note excellent store",
+      "timestamp": "2026-11-22T07:37:26.592Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Friendly and conversational"
+    },
+    "e87ecea8ea6886c6252cc8c23734e2b3c61cd1dfd6dbf54c24f1346cf4240b11": {
+      "text": "I was looking for comfortable daily footwear and found exactly what I needed at New Kapil Shoes. Honestly loved both the comfortable fit and wide variety of slippers and sandals. The footwear feels super durable and looks great. A solid 10/10 shopping experience for footwear. Note: Excellent store",
+      "normalized": "i was looking for comfortable daily footwear and found exactly what i needed at new kapil shoes honestly loved both the comfortable fit and wide variety of slippers and sandals the footwear feels super durable and looks great a solid 10 10 shopping experience for footwear note excellent store",
+      "timestamp": "2026-11-22T07:38:30.118Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Friendly and conversational"
+    },
+    "555d51c9335ba5df2461a949702c52ae3b4e466c1cf879ec3690e2f859ad09bf": {
+      "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. A well-managed store with a reliable variety of everyday and formal footwear. Pricing is transparent and product durability is dependable. Note: Excellent store",
+      "normalized": "came to new kapil shoes based on recommendations and was not disappointed a well managed store with a reliable variety of everyday and formal footwear pricing is transparent and product durability is dependable note excellent store",
+      "timestamp": "2026-11-22T07:38:30.118Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Professional and balanced"
+    },
+    "8f4c0d27c008783a0e82365e7cc7c039c7565a2002c0db00b80480da6dd6fd8a": {
+      "text": "Purchased footwear from New Kapil Shoes recently. Customer assistance is professional and the footwear collection meets high standards of comfort and craftsmanship. A trustworthy footwear destination. Note: Excellent store",
+      "normalized": "purchased footwear from new kapil shoes recently customer assistance is professional and the footwear collection meets high standards of comfort and craftsmanship a trustworthy footwear destination note excellent store",
+      "timestamp": "2026-11-22T07:38:30.118Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Professional and balanced"
+    },
+    "78a4c25c31c203c364ee61354e176a954292915f978dc23a2c9803c50ec223ff": {
+      "text": "पहली बार न्यू कपिल शूज गया और बहुत अच्छा लगा। व्यावसायिक दृष्टिकोण और ग्राहकों के प्रति सहयोग सराहनीय है। फुटवेयर की मजबूती और डिजाइन दोनों उत्तम हैं। विशेष अनुभव: Excellent store",
+      "normalized": "पहल ब र न य कप ल श ज गय और बह त अच छ लग व य वस य क द ष ट क ण और ग र हक क प रत सहय ग सर हन य ह फ टव यर क मजब त और ड ज इन द न उत तम ह व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:38:30.232Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Professional and balanced"
+    },
+    "274a3378b9a9e6b40187b17dfb8692f0d55a9b46b1cabaf5c10d327b9cd4a1b2": {
+      "text": "न्यू कपिल शूज में खरीदारी करके मन खुश हो गया। जूतों और चप्पलों की व्यवस्थित रेंज और उचित मूल्य इस दुकान को विशेष बनाते हैं। समय पर सेवा और गुणवत्ता दोनों संतोषजनक हैं। विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज म खर द र करक मन ख श ह गय ज त और चप पल क व यवस थ त र ज और उच त म ल य इस द क न क व श ष बन त ह समय पर स व और ग णवत त द न स त षजनक ह व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:38:30.232Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Professional and balanced"
+    },
+    "4a17a22e93aa6bee8199537d0fed2308533e3aabfd2eea9fbdf95c9a581406e2": {
+      "text": "न्यू कपिल शूज से बहुत अच्छी खरीदारी रही। पैरों के लिए बहुत कम्फर्टेबल हैं। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज स बह त अच छ खर द र रह प र क ल ए बह त कम फर ट बल ह प स वस ल खर द र सभ क यह आन क सल ह द ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:38:30.232Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Short and direct"
+    },
+    "eacb83463d7bef3bd0592ebd3fb5d4bd104c55181f5eca1c9d442a02e058f53d": {
+      "text": "New Kapil Shoes par badhiya experience mila. shoes ka sole aur cushion kaafi soft hai. Sabhi ko New Kapil Shoes recommend karunga, zaroor visit karein! My note: Excellent store",
+      "normalized": "new kapil shoes par badhiya experience mila shoes ka sole aur cushion kaafi soft hai sabhi ko new kapil shoes recommend karunga zaroor visit karein my note excellent store",
+      "timestamp": "2026-11-22T07:38:30.322Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Short and direct"
+    },
+    "990c9d2cd7458c669aaad982b95cc6a8dcce6bc1fa49d366498e9e66fef1ef4a": {
+      "text": "New Kapil Shoes par badhiya experience mila. fitting aur comfort perfect hai. Super happy with the footwear and customer care. My note: Excellent store",
+      "normalized": "new kapil shoes par badhiya experience mila fitting aur comfort perfect hai super happy with the footwear and customer care my note excellent store",
+      "timestamp": "2026-11-22T07:38:30.322Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Short and direct"
+    },
+    "31dae5c2efb7aff57ecdf1b6215cfd811fc988d0db7483d1621ae2029408002d": {
+      "text": "New Kapil Shoes par shopping ka experience smooth aur hassle-free tha. Sach me shoes ka sole aur cushion kaafi soft hai aur shoes, sandals aur slippers ka kaafi accha collection hai dono ekdum mast lage. Footwear pehan kar full comfortable feel hota hai. Sabhi ko New Kapil Shoes recommend karunga, zaroor visit karein! My note: Excellent store",
+      "normalized": "new kapil shoes par shopping ka experience smooth aur hassle free tha sach me shoes ka sole aur cushion kaafi soft hai aur shoes sandals aur slippers ka kaafi accha collection hai dono ekdum mast lage footwear pehan kar full comfortable feel hota hai sabhi ko new kapil shoes recommend karunga zaroor visit karein my note excellent store",
+      "timestamp": "2026-11-22T07:38:30.322Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Friendly and conversational"
+    },
+    "18a0847730821d968b2384701ba05b8d463da17490a074bd75d6f7b054f18123": {
+      "text": "Great experience at New Kapil Shoes. Perfect all-day comfort. A solid 10/10 shopping experience for footwear. Note: Excellent store",
+      "normalized": "great experience at new kapil shoes perfect all day comfort a solid 10 10 shopping experience for footwear note excellent store",
+      "timestamp": "2026-11-22T07:39:51.947Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Short and direct"
+    },
+    "762f4e8e543caf2cc10b579697ed6cfd32384e2a43355586978c77bd9034495c": {
+      "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. Found the footwear selection neatly displayed and prices very reasonable. The very comfortable to wear is truly commendable. Will surely visit again for my next footwear purchase. Note: Excellent store",
+      "normalized": "came to new kapil shoes based on recommendations and was not disappointed found the footwear selection neatly displayed and prices very reasonable the very comfortable to wear is truly commendable will surely visit again for my next footwear purchase note excellent store",
+      "timestamp": "2026-11-22T07:39:51.947Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "578e8280b6a283b4ce6e419f4d1b41ed15b67e0e9914dec1a79a6afd7faf096d": {
+      "text": "New Kapil Shoes is a dependable footwear shop. Specifically impressed by the comfortable fit, neatly organized footwear display. The footwear feels reliable and well-stitched for everyday use. Staff was courteous throughout the visit. Five stars well deserved for great footwear and honest service. Note: Excellent store",
+      "normalized": "new kapil shoes is a dependable footwear shop specifically impressed by the comfortable fit neatly organized footwear display the footwear feels reliable and well stitched for everyday use staff was courteous throughout the visit five stars well deserved for great footwear and honest service note excellent store",
+      "timestamp": "2026-11-22T07:39:51.947Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Detailed and descriptive"
+    },
+    "009b9ee161eff62f124548479c932cf34b11841a4ce3185030ebd61a740a9500": {
+      "text": "पहली बार न्यू कपिल शूज गया और बहुत अच्छा लगा। सच कहूं तो आराम और फिटिंग एकदम सही है और वैरायटी काफी अच्छी है दोनों ने दिल जीत लिया। जूते पहनकर काफी अच्छा लगा। फुटवेयर खरीदने के लिए न्यू कपिल शूज को जरूर रेकमेंड करूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "पहल ब र न य कप ल श ज गय और बह त अच छ लग सच कह त आर म और फ ट ग एकदम सह ह और व र यट क फ अच छ ह द न न द ल ज त ल य ज त पहनकर क फ अच छ लग फ टव यर खर दन क ल ए न य कप ल श ज क जर र र कम ड कर ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:39:52.055Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Friendly and conversational"
+    },
+    "237cda7485895bd58fb11cee0683740b610cdae6ec1d18c69a591f6fbe9482f4": {
+      "text": "न्यू कपिल शूज में शॉपिंग करने का अनुभव बहुत सुखद और संतोषजनक रहा। पहनने में बेहद आरामदायक हैं। सरल और सुखद अनुभव रहा। जूते टिकाऊ और आरामदायक हैं। फुटवेयर खरीदने के लिए न्यू कपिल शूज को जरूर रेकमेंड करूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज म श प ग करन क अन भव बह त स खद और स त षजनक रह पहनन म ब हद आर मद यक ह सरल और स खद अन भव रह ज त ट क ऊ और आर मद यक ह फ टव यर खर दन क ल ए न य कप ल श ज क जर र र कम ड कर ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:39:52.055Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Simple and natural"
+    },
+    "eb0e98b8da63a6da698b28509b1eb71c411a770ae614b3f671302fbac83ab4fe": {
+      "text": "हाल ही में न्यू कपिल शूज गया था और यहां का अनुभव काफी अच्छा था। सच कहूं तो पहनने में बेहद आरामदायक हैं और वैरायटी काफी अच्छी है दोनों ने दिल जीत लिया। जूते पहनकर काफी अच्छा लगा। आगे भी जरूरत पड़ने पर यहीं से खरीदारी करूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "ह ल ह म न य कप ल श ज गय थ और यह क अन भव क फ अच छ थ सच कह त पहनन म ब हद आर मद यक ह और व र यट क फ अच छ ह द न न द ल ज त ल य ज त पहनकर क फ अच छ लग आग भ जर रत पड न पर यह स खर द र कर ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:39:52.055Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Friendly and conversational"
+    },
+    "71c6d29c38b50ffca19c42919b10b118dc204c7bf2ba2c98a6ccc88c0c1d1fd0": {
+      "text": "New Kapil Shoes par shopping ka experience smooth aur hassle-free tha. Professional service aur comfortable footwear selection. Reliable local shoe store jahan quality compromise nahi hoti. My note: Excellent store",
+      "normalized": "new kapil shoes par shopping ka experience smooth aur hassle free tha professional service aur comfortable footwear selection reliable local shoe store jahan quality compromise nahi hoti my note excellent store",
+      "timestamp": "2026-11-22T07:39:52.149Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Professional and balanced"
+    },
+    "639c4e3c8ee587d5c5321158d894de920a6da8ba6e6c88298dab77ce0fbba963": {
+      "text": "Shoe shopping ke liye New Kapil Shoes sach me ek behtareen jagah hai. pehanne me bohot comfortable hai. Honest dealing aur comfortable shoes mile. Recommended! Sabhi ko New Kapil Shoes recommend karunga, zaroor visit karein! My note: Excellent store",
+      "normalized": "shoe shopping ke liye new kapil shoes sach me ek behtareen jagah hai pehanne me bohot comfortable hai honest dealing aur comfortable shoes mile recommended sabhi ko new kapil shoes recommend karunga zaroor visit karein my note excellent store",
+      "timestamp": "2026-11-22T07:39:52.149Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Simple and natural"
+    },
+    "79557373a26e05e8d1397e046b4369325d41b17ba5bb8ca1ffe5ec2e71a6b378": {
+      "text": "New Kapil Shoes par badhiya experience mila. pehanne me bohot comfortable hai. Paisa vasool shopping experience! 5 stars. My note: Excellent store",
+      "normalized": "new kapil shoes par badhiya experience mila pehanne me bohot comfortable hai paisa vasool shopping experience 5 stars my note excellent store",
+      "timestamp": "2026-11-22T07:39:52.149Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Short and direct"
+    },
+    "a50c75fae909f88936bed7bfee8c1f47f352dd27302a108597bc96ac84976c67": {
+      "text": "New Kapil Shoes is a dependable footwear shop. The cushioned and easy on the feet is truly commendable. Great collection and fair prices. A solid 10/10 shopping experience for footwear. Note: Excellent store",
+      "normalized": "new kapil shoes is a dependable footwear shop the cushioned and easy on the feet is truly commendable great collection and fair prices a solid 10 10 shopping experience for footwear note excellent store",
+      "timestamp": "2026-11-22T07:46:34.746Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "df0df11300c18e0cec3a727c3165c9b90d7313481498455b3331ef32017d051c": {
+      "text": "Great experience at New Kapil Shoes. Very comfortable to wear. Glad to support this local footwear business. Recommended! Note: Excellent store",
+      "normalized": "great experience at new kapil shoes very comfortable to wear glad to support this local footwear business recommended note excellent store",
+      "timestamp": "2026-11-22T07:46:34.746Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Short and direct"
+    },
+    "7111e011f54742ec65512c11e0e4c39a5cc5f97c2a9c826b5bfadcc77ad941ca": {
+      "text": "Found New Kapil Shoes to be one of the best footwear shops around. The very comfortable to wear is truly commendable. Honest dealings, good product variety, and very comfortable footwear. Definitely worth visiting if you need quality shoes or sandals. Note: Excellent store",
+      "normalized": "found new kapil shoes to be one of the best footwear shops around the very comfortable to wear is truly commendable honest dealings good product variety and very comfortable footwear definitely worth visiting if you need quality shoes or sandals note excellent store",
+      "timestamp": "2026-11-22T07:46:34.746Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "e20ceffd8296f4244a61439005faa4321fef00f81c55e410cb14ed8bfb90792b": {
+      "text": "न्यू कपिल शूज में शॉपिंग करने का अनुभव बहुत सुखद और संतोषजनक रहा। दुकान पर जूतों और चप्पलों की अच्छी रेंज है और दाम भी सही हैं। आगे भी जरूरत पड़ने पर यहीं से खरीदारी करूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज म श प ग करन क अन भव बह त स खद और स त षजनक रह द क न पर ज त और चप पल क अच छ र ज ह और द म भ सह ह आग भ जर रत पड न पर यह स खर द र कर ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:46:35.451Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Simple and natural"
+    },
+    "0d5d1fde1e8321e5e3a9a9ff88853ad373fc9edcdb6dc5bd5c540013090fdbc4": {
+      "text": "यहां से जूते और चप्पल खरीदे, क्वालिटी में कोई कमी नहीं है। आराम और फिटिंग एकदम सही है। दाम भी वाजिब हैं और जूते बहुत अच्छे हैं। फुटवेयर खरीदने के लिए न्यू कपिल शूज को जरूर रेकमेंड करूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "यह स ज त और चप पल खर द क व ल ट म क ई कम नह ह आर म और फ ट ग एकदम सह ह द म भ व ज ब ह और ज त बह त अच छ ह फ टव यर खर दन क ल ए न य कप ल श ज क जर र र कम ड कर ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:46:35.451Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Simple and natural"
+    },
+    "a402562b12f1c4d4a901ccb9169f2942ef72c65f9ec03b830bc45c66d0c9cd06": {
+      "text": "न्यू कपिल शूज हमारे क्षेत्र की एक भरोसेमंद जूते-चप्पल की दुकान है। सच कहूं तो पहनने में बेहद आरामदायक हैं और डिजाइन और ऑप्शंस भरपूर हैं दोनों ने दिल जीत लिया। जूते पहनकर काफी अच्छा लगा। आगे भी जरूरत पड़ने पर यहीं से खरीदारी करूंगा। विशेष अनुभव: Excellent store",
+      "normalized": "न य कप ल श ज हम र क ष त र क एक भर स म द ज त चप पल क द क न ह सच कह त पहनन म ब हद आर मद यक ह और ड ज इन और ऑप श स भरप र ह द न न द ल ज त ल य ज त पहनकर क फ अच छ लग आग भ जर रत पड न पर यह स खर द र कर ग व श ष अन भव excellent store",
+      "timestamp": "2026-11-22T07:46:35.451Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Friendly and conversational"
+    },
+    "07ffb3b50dde6c05eb9de74b9a3e7e910ad1f65dc6925a943728048434a0c70c": {
+      "text": "Apne family ke liye footwear New Kapil Shoes se khareeda, full satisfaction mila. Sach me shoes ka sole aur cushion kaafi soft hai aur latest design mil jaate hain dono ekdum mast lage. Footwear pehan kar full comfortable feel hota hai. Super happy with the footwear and customer care. My note: Excellent store",
+      "normalized": "apne family ke liye footwear new kapil shoes se khareeda full satisfaction mila sach me shoes ka sole aur cushion kaafi soft hai aur latest design mil jaate hain dono ekdum mast lage footwear pehan kar full comfortable feel hota hai super happy with the footwear and customer care my note excellent store",
+      "timestamp": "2026-11-22T07:46:35.638Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Friendly and conversational"
+    },
+    "699cf1cf6611493345c22a35c6e87a2d696e06bf897e7ee6c929eea3ea916510": {
+      "text": "New Kapil Shoes par shopping ka experience smooth aur hassle-free tha. Khas taur par fitting aur comfort perfect hai, shoes, sandals aur slippers ka kaafi accha collection hai kaafi achha laga. Daily rough use ke liye bhi footwear durable lag raha hai. Paisa vasool shopping experience! 5 stars. My note: Excellent store",
+      "normalized": "new kapil shoes par shopping ka experience smooth aur hassle free tha khas taur par fitting aur comfort perfect hai shoes sandals aur slippers ka kaafi accha collection hai kaafi achha laga daily rough use ke liye bhi footwear durable lag raha hai paisa vasool shopping experience 5 stars my note excellent store",
+      "timestamp": "2026-11-22T07:46:35.638Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Detailed and descriptive"
+    },
+    "2b1723f5a896f8da57f47e4949a0d3ea213643ab55ecf6f4c64d7aa2b40c679a": {
+      "text": "Recently New Kapil Shoes visit kiya, overall experience bohot shandar raha. pehanne me bohot comfortable hai. Collection aur rate dono kaafi sahi hain. Paisa vasool shopping experience! 5 stars. My note: Excellent store",
+      "normalized": "recently new kapil shoes visit kiya overall experience bohot shandar raha pehanne me bohot comfortable hai collection aur rate dono kaafi sahi hain paisa vasool shopping experience 5 stars my note excellent store",
+      "timestamp": "2026-11-22T07:46:35.638Z",
+      "rating": 5,
+      "language": "hinglish",
+      "style": "Simple and natural"
+    },
+    "bade4fc0e11c6b4e09621d12cbdb18b965ee5eff3596f76d0e3307ae0403efbd": {
+      "text": "I personally visited New Kapil Shoes to pick up a new pair of footwear. I was pleasantly surprised by how good material they are. Truly happy with my purchase. Very happy with the overall value and comfort.",
+      "normalized": "i personally visited new kapil shoes to pick up a new pair of footwear i was pleasantly surprised by how good material they are truly happy with my purchase very happy with the overall value and comfort",
+      "timestamp": "2026-11-22T07:48:24.068Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Personal and expressive"
+    },
+    "598764cb4af31bcee5f03e5d41a62227f9cd36c12936f1f61943f272072d8960": {
+      "text": "Great experience at New Kapil Shoes. Top quality. A solid 10/10 shopping experience for footwear.",
+      "normalized": "great experience at new kapil shoes top quality a solid 10 10 shopping experience for footwear",
+      "timestamp": "2026-11-22T07:48:24.068Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Short and direct"
+    },
+    "03a78c25f888e76f05fef8ad36ad10f0b68f47584e8d84b3ad813bc9740ef05e": {
+      "text": "I was looking for comfortable daily footwear and found exactly what I needed at New Kapil Shoes. A well-managed store with a reliable variety of everyday and formal footwear. Pricing is transparent and product durability is dependable.",
+      "normalized": "i was looking for comfortable daily footwear and found exactly what i needed at new kapil shoes a well managed store with a reliable variety of everyday and formal footwear pricing is transparent and product durability is dependable",
+      "timestamp": "2026-11-22T07:48:24.068Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Professional and balanced"
+    },
+    "5198197fde03ffe33fec84b806f00670d46899152b093e0017e1f1115cbd6883": {
+      "text": "Great experience at New Kapil Shoes. Impressive variety. Will surely visit again for my next footwear purchase.",
+      "normalized": "great experience at new kapil shoes impressive variety will surely visit again for my next footwear purchase",
+      "timestamp": "2026-11-22T07:48:55.489Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Short and direct"
+    },
+    "f5bd8ad25aafb7b6dbc7ba8ffea179a542cdf6f490919b27276749aa05b5a50f": {
+      "text": "Shopping at New Kapil Shoes was quick, convenient, and satisfying. The wide variety of slippers and sandals is truly commendable. Great collection and fair prices. A solid 10/10 shopping experience for footwear.",
+      "normalized": "shopping at new kapil shoes was quick convenient and satisfying the wide variety of slippers and sandals is truly commendable great collection and fair prices a solid 10 10 shopping experience for footwear",
+      "timestamp": "2026-11-22T07:48:55.489Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "e5ee0b0f5b9a80a45df69720937f1b48f6814f5a73a72066a4478d0398bbc677": {
+      "text": "New Kapil Shoes is a dependable footwear shop. The wide variety of slippers and sandals is truly commendable. Honest dealings, good product variety, and very comfortable footwear. Glad to support this local footwear business. Recommended!",
+      "normalized": "new kapil shoes is a dependable footwear shop the wide variety of slippers and sandals is truly commendable honest dealings good product variety and very comfortable footwear glad to support this local footwear business recommended",
+      "timestamp": "2026-11-22T07:48:55.489Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "985277bb19c2d1fe470875103dcf319a948b0bf76e2c4d11a337f8a297632763": {
+      "text": "Really satisfied with my shopping experience at New Kapil Shoes. Really loved the neatly organized footwear display. The footwear feels super durable and looks great. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+      "normalized": "really satisfied with my shopping experience at new kapil shoes really loved the neatly organized footwear display the footwear feels super durable and looks great highly recommend new kapil shoes to anyone looking for durable footwear",
+      "timestamp": "2026-11-22T07:49:00.733Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Friendly and conversational"
+    },
+    "88d4f1e20a3e6fa1c999a5b4a0a73b85b3329c13f10109b137df08df9a533d8d": {
+      "text": "I personally visited New Kapil Shoes to pick up a new pair of footwear. I was pleasantly surprised by how neatly organized footwear display they are. Truly happy with my purchase. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+      "normalized": "i personally visited new kapil shoes to pick up a new pair of footwear i was pleasantly surprised by how neatly organized footwear display they are truly happy with my purchase highly recommend new kapil shoes to anyone looking for durable footwear",
+      "timestamp": "2026-11-22T07:49:00.733Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Personal and expressive"
+    },
+    "71665d12754f67a0f1b4ebf91f24128520ceb52cab6b470256034be61276b4d3": {
+      "text": "New Kapil Shoes is a dependable footwear shop. Specifically impressed by the wide variety of slippers and sandals. The footwear feels reliable and well-stitched for everyday use. Staff was courteous throughout the visit. Definitely worth visiting if you need quality shoes or sandals.",
+      "normalized": "new kapil shoes is a dependable footwear shop specifically impressed by the wide variety of slippers and sandals the footwear feels reliable and well stitched for everyday use staff was courteous throughout the visit definitely worth visiting if you need quality shoes or sandals",
+      "timestamp": "2026-11-22T07:49:00.733Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Detailed and descriptive"
+    },
+    "cc1f7639bf9b732daf64c087a5480bfaa0105ec3e3b44d4382bb6337039c83a8": {
+      "text": "Great experience at New Kapil Shoes. Wide variety of slippers and sandals. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+      "normalized": "great experience at new kapil shoes wide variety of slippers and sandals highly recommend new kapil shoes to anyone looking for durable footwear",
+      "timestamp": "2026-11-22T07:49:03.015Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Short and direct"
+    },
+    "f96f5092de906e9edd7f1e7303828b085e39085e39359410bc785b7e8f3a1a2d": {
+      "text": "I was looking for comfortable daily footwear and found exactly what I needed at New Kapil Shoes. Customer assistance is professional and the footwear collection meets high standards of comfort and craftsmanship. A trustworthy footwear destination.",
+      "normalized": "i was looking for comfortable daily footwear and found exactly what i needed at new kapil shoes customer assistance is professional and the footwear collection meets high standards of comfort and craftsmanship a trustworthy footwear destination",
+      "timestamp": "2026-11-22T07:49:03.015Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Professional and balanced"
+    },
+    "a2dd17dda4a5c9d56807b23c6ceb535c866c8f7f5ef6de1aeab00829328ba2e8": {
+      "text": "Glad I visited New Kapil Shoes for my recent footwear purchase. The neatly organized footwear display is truly commendable. Great collection and fair prices. Very happy with the overall value and comfort.",
+      "normalized": "glad i visited new kapil shoes for my recent footwear purchase the neatly organized footwear display is truly commendable great collection and fair prices very happy with the overall value and comfort",
+      "timestamp": "2026-11-22T07:49:03.015Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "c5490685fdfdcff6c503a2736c19c64d777f56284c3f5c6a62a984192866ccdc": {
+      "text": "Glad I visited New Kapil Shoes for my recent footwear purchase. Found the footwear selection neatly displayed and prices very reasonable. The wide variety of slippers and sandals is truly commendable. Will surely visit again for my next footwear purchase.",
+      "normalized": "glad i visited new kapil shoes for my recent footwear purchase found the footwear selection neatly displayed and prices very reasonable the wide variety of slippers and sandals is truly commendable will surely visit again for my next footwear purchase",
+      "timestamp": "2026-11-22T07:49:06.156Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "b68c617f5f749b5672853096f8fba5c849d406c249d1b1fa1bcb0e61784a3d23": {
+      "text": "Found New Kapil Shoes to be one of the best footwear shops around. Found the footwear selection neatly displayed and prices very reasonable. The impressive variety is truly commendable. A solid 10/10 shopping experience for footwear.",
+      "normalized": "found new kapil shoes to be one of the best footwear shops around found the footwear selection neatly displayed and prices very reasonable the impressive variety is truly commendable a solid 10 10 shopping experience for footwear",
+      "timestamp": "2026-11-22T07:49:06.156Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "82fb23ba9b72b95d59db26673fe2da3bcd9f1e1d359af263785b87e6c1a38221": {
+      "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. The neatly organized footwear display is truly commendable. Great collection and fair prices. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+      "normalized": "came to new kapil shoes based on recommendations and was not disappointed the neatly organized footwear display is truly commendable great collection and fair prices highly recommend new kapil shoes to anyone looking for durable footwear",
+      "timestamp": "2026-11-22T07:49:06.156Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "a161912d4bb125f01449875b35aa4ca543656c543053f5824588097bb6174c5d": {
+      "text": "Great experience at New Kapil Shoes. Fresh collection of shoes. Very happy with the overall value and comfort.",
+      "normalized": "great experience at new kapil shoes fresh collection of shoes very happy with the overall value and comfort",
+      "timestamp": "2026-11-22T07:49:12.339Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Short and direct"
+    },
+    "a282263197130cc2f26d191eded2cc10475d309263d6ddd48ffa0f812aeb5de7": {
+      "text": "Visited New Kapil Shoes today and had a very pleasant experience. The wide variety of slippers and sandals is truly commendable. Great collection and fair prices. Definitely worth visiting if you need quality shoes or sandals.",
+      "normalized": "visited new kapil shoes today and had a very pleasant experience the wide variety of slippers and sandals is truly commendable great collection and fair prices definitely worth visiting if you need quality shoes or sandals",
+      "timestamp": "2026-11-22T07:49:12.339Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "8953570d2294f305832c1a7eb1a12b57286e29fb047565006d64ece8715e0c4a": {
+      "text": "Purchased footwear from New Kapil Shoes recently. Really loved the fresh collection of shoes. The footwear feels super durable and looks great. Definitely worth visiting if you need quality shoes or sandals.",
+      "normalized": "purchased footwear from new kapil shoes recently really loved the fresh collection of shoes the footwear feels super durable and looks great definitely worth visiting if you need quality shoes or sandals",
+      "timestamp": "2026-11-22T07:49:12.339Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Friendly and conversational"
+    },
+    "93b3977fc70fe45a036c2f72958f0a83a79df9af5ca5934d0206125f278eb1a4": {
+      "text": "जूते-सैंडल की खरीदारी के लिए न्यू कपिल शूज एक शानदार विकल्प है। क्वालिटी बहुत मजबूत और टिकाऊ है। दाम भी वाजिब हैं और जूते बहुत अच्छे हैं। पैसे वसूल खरीदारी, सभी को यहां आने की सलाह दूंगा।",
+      "normalized": "ज त स डल क खर द र क ल ए न य कप ल श ज एक श नद र व कल प ह क व ल ट बह त मजब त और ट क ऊ ह द म भ व ज ब ह और ज त बह त अच छ ह प स वस ल खर द र सभ क यह आन क सल ह द ग",
+      "timestamp": "2026-11-22T07:54:07.629Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Simple and natural"
+    },
+    "3e0140d3cead214a0062c84931f3866d0b5139f22b7ffc5350c16ced3235bcba": {
+      "text": "पहली बार न्यू कपिल शूज गया और बहुत अच्छा लगा। विशेष रूप से क्वालिटी बहुत मजबूत और टिकाऊ है, आराम और फिटिंग एकदम सही है ने बहुत प्रभावित किया। हर रोज पहनने के लिए जूते काफी टिकाऊ महसूस होते हैं। न्यू कपिल शूज को 5 स्टार!",
+      "normalized": "पहल ब र न य कप ल श ज गय और बह त अच छ लग व श ष र प स क व ल ट बह त मजब त और ट क ऊ ह आर म और फ ट ग एकदम सह ह न बह त प रभ व त क य हर र ज पहनन क ल ए ज त क फ ट क ऊ महस स ह त ह न य कप ल श ज क 5 स ट र",
+      "timestamp": "2026-11-22T07:54:07.629Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Detailed and descriptive"
+    },
+    "7f9283935413d1d70fd4a28f15e27c2666965abce45e7c68a72c62b92598462c": {
+      "text": "न्यू कपिल शूज से फुटवेयर खरीदा, बहुत ही बढ़िया अनुभव रहा। दुकान पर जूतों और चप्पलों की अच्छी रेंज है और दाम भी सही हैं। न्यू कपिल शूज को 5 स्टार!",
+      "normalized": "न य कप ल श ज स फ टव यर खर द बह त ह बढ य अन भव रह द क न पर ज त और चप पल क अच छ र ज ह और द म भ सह ह न य कप ल श ज क 5 स ट र",
+      "timestamp": "2026-11-22T07:54:07.629Z",
+      "rating": 5,
+      "language": "hi",
+      "style": "Simple and natural"
+    },
+    "d0473f2948ec43bf61a856ef0e3638fdcc07f409a7acef666c4ca3a94b73150e": {
+      "text": "Really satisfied with my shopping experience at New Kapil Shoes. Found the footwear selection neatly displayed and prices very reasonable. The top quality is truly commendable. Highly recommend New Kapil Shoes to anyone looking for durable footwear.",
+      "normalized": "really satisfied with my shopping experience at new kapil shoes found the footwear selection neatly displayed and prices very reasonable the top quality is truly commendable highly recommend new kapil shoes to anyone looking for durable footwear",
+      "timestamp": "2026-11-22T07:56:47.260Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Simple and natural"
+    },
+    "1a583da8c620a4bd7d03273a22624df79ddd68f80b802815b3cf86adac2d1562": {
+      "text": "Great local footwear store with a very welcoming environment. Specifically impressed by the durable build, comfortable fit. The footwear feels reliable and well-stitched for everyday use. Staff was courteous throughout the visit. A solid 10/10 shopping experience for footwear.",
+      "normalized": "great local footwear store with a very welcoming environment specifically impressed by the durable build comfortable fit the footwear feels reliable and well stitched for everyday use staff was courteous throughout the visit a solid 10 10 shopping experience for footwear",
+      "timestamp": "2026-11-22T07:56:47.260Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Detailed and descriptive"
+    },
+    "c15428a23f9dc8b00c918c7ebcd5efac603260248271348c92de7cd8c22119f5": {
+      "text": "Came to New Kapil Shoes based on recommendations and was not disappointed. The establishment maintains a commendable standard in footwear quality and reasonable pricing. Customer interactions are handled courteously. Highly recommended for footwear needs.",
+      "normalized": "came to new kapil shoes based on recommendations and was not disappointed the establishment maintains a commendable standard in footwear quality and reasonable pricing customer interactions are handled courteously highly recommended for footwear needs",
+      "timestamp": "2026-11-22T07:56:47.260Z",
+      "rating": 5,
+      "language": "en",
+      "style": "Professional and balanced"
+    }
+  }
+}

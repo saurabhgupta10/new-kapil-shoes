@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Kapil Shoes – Printable QR Poster</title>
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: #525659;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans Devanagari", "Mukta", sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px;
+      min-height: 100vh;
+    }
+
+    /* Floating Print Control Bar */
+    .no-print {
+      background: #191c1f;
+      color: #ffffff;
+      padding: 12px 24px;
+      border-radius: 50px;
+      margin-bottom: 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+      z-index: 100;
+    }
+
+    .btn-action {
+      background: #c46d29;
+      color: #ffffff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 30px;
+      font-weight: 700;
+      font-size: 0.95rem;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: background 0.2s;
+      text-decoration: none;
+    }
+
+    .btn-action:hover {
+      background: #a8581a;
+    }
+
+    .btn-secondary {
+      background: rgba(255,255,255,0.15);
+    }
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.25);
+    }
+
+    /* A4 Poster Canvas (210mm x 297mm) */
+    .poster-sheet {
+      width: 210mm;
+      min-height: 297mm;
+      background: #ffffff;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.35);
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Top Brand Header */
+    .poster-header {
+      background: #191c1f;
+      color: #ffffff;
+      padding: 38px 32px 30px;
+      text-align: center;
+      border-bottom: 8px solid #c46d29;
+    }
+
+    .brand-eyebrow {
+      display: inline-block;
+      font-size: 13pt;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #e5b98f;
+      margin-bottom: 10px;
+    }
+
+    .brand-title {
+      font-size: 34pt;
+      font-weight: 900;
+      letter-spacing: -0.01em;
+      color: #ffffff;
+      line-height: 1.1;
+      margin-bottom: 8px;
+    }
+
+    .brand-sub {
+      font-size: 14pt;
+      font-weight: 600;
+      color: #d1d5db;
+      letter-spacing: 0.05em;
+    }
+
+    /* Middle Content */
+    .poster-body {
+      flex: 1;
+      padding: 36px 36px 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      justify-content: space-between;
+    }
+
+    .headline-wrap {
+      margin-bottom: 20px;
+    }
+
+    .headline-en {
+      font-size: 24pt;
+      font-weight: 900;
+      color: #191c1f;
+      line-height: 1.2;
+      margin-bottom: 6px;
+    }
+
+    .headline-hi {
+      font-size: 20pt;
+      font-weight: 700;
+      color: #c46d29;
+      line-height: 1.25;
+      margin-bottom: 6px;
+    }
+
+    .headline-time {
+      font-size: 12pt;
+      color: #64748b;
+      font-weight: 600;
+    }
+
+    /* QR Code Display */
+    .qr-frame {
+      background: #ffffff;
+      border: 4px solid #191c1f;
+      border-radius: 20px;
+      padding: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+      margin: 16px 0;
+      display: inline-block;
+    }
+
+    .qr-frame img {
+      width: 250px;
+      height: 250px;
+      display: block;
+    }
+
+    .scan-pill {
+      background: #fbf0e6;
+      border: 1.5px solid #f0cbab;
+      color: #c46d29;
+      padding: 8px 20px;
+      border-radius: 999px;
+      font-size: 11pt;
+      font-weight: 800;
+      margin-bottom: 24px;
+      display: inline-block;
+    }
+
+    /* 3 Step Visual Flow */
+    .steps-row {
+      display: flex;
+      width: 100%;
+      justify-content: space-around;
+      gap: 16px;
+      padding: 18px 12px;
+      background: #f8fafc;
+      border-radius: 16px;
+      border: 1px solid #e2e8f0;
+      margin-bottom: 20px;
+    }
+
+    .step-item {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .step-number {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: #191c1f;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11pt;
+      font-weight: 800;
+    }
+
+    .step-title {
+      font-size: 10.5pt;
+      font-weight: 700;
+      color: #1e293b;
+    }
+
+    .step-desc {
+      font-size: 8.5pt;
+      color: #64748b;
+      line-height: 1.25;
+    }
+
+    /* Footer / Instagram */
+    .poster-footer {
+      background: #f8f6f2;
+      border-top: 2px dashed #cbd5e1;
+      padding: 18px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+    }
+
+    .insta-connect {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 11pt;
+      font-weight: 700;
+      color: #191c1f;
+    }
+
+    .insta-gradient-icon {
+      width: 30px;
+      height: 30px;
+      background: linear-gradient(45deg, #f09433, #dc2743, #bc1888);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #ffffff;
+    }
+
+    .insta-gradient-icon svg {
+      width: 18px;
+      height: 18px;
+      fill: currentColor;
+    }
+
+    .google-badge-text {
+      font-size: 9.5pt;
+      font-weight: 700;
+      color: #1a73e8;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* Print Styles */
+    @media print {
+      body {
+        background: transparent !important;
+        padding: 0 !important;
+      }
+      .no-print {
+        display: none !important;
+      }
+      .poster-sheet {
+        box-shadow: none !important;
+        width: 100% !important;
+        min-height: 100% !important;
+      }
+      @page {
+        size: A4 portrait;
+        margin: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Print Controls -->
+  <div class="no-print">
+    <button type="button" class="btn-action" onclick="window.print()">
+      🖨️ Print Poster (A4)
+    </button>
+    <a href="/api/qr?format=png" download="NewKapilShoes_QR.png" class="btn-action btn-secondary">
+      ⬇️ Download QR Code PNG
+    </a>
+    <a href="/" class="btn-action btn-secondary">
+      📱 Customer View
+    </a>
+  </div>
+
+  <!-- A4 Poster Document -->
+  <div class="poster-sheet">
+    <!-- Header -->
+    <header class="poster-header">
+      <div class="brand-eyebrow">Footwear Collection</div>
+      <h1 class="brand-title">NEW KAPIL SHOES</h1>
+      <p class="brand-sub">SHOES • SLIPPERS • SANDALS • FOOTWEAR</p>
+    </header>
+
+    <!-- Body -->
+    <div class="poster-body">
+      <div class="headline-wrap">
+        <h2 class="headline-en">How was your shopping experience?</h2>
+        <h3 class="headline-hi">अपना अनुभव साझा करने के लिए स्कैन करें</h3>
+        <p class="headline-time">⚡ Takes only 30 seconds • Available in English, हिंदी, Hinglish</p>
+      </div>
+
+      <!-- QR Frame -->
+      <div>
+        <div class="qr-frame">
+          <img id="qr-img" src="/api/qr" alt="Scan QR Code to rate New Kapil Shoes">
+        </div>
+        <br>
+        <div class="scan-pill">📲 Point your phone camera to scan</div>
+      </div>
+
+      <!-- 3-Step Guide -->
+      <div class="steps-row">
+        <div class="step-item">
+          <div class="step-number">1</div>
+          <div class="step-title">Scan QR Code</div>
+          <div class="step-desc">Open camera & tap the link to view our instant feedback page</div>
+        </div>
+        <div class="step-item">
+          <div class="step-number">2</div>
+          <div class="step-title">Select Experience</div>
+          <div class="step-desc">Pick stars & feedback tags. Get AI review suggestions instantly</div>
+        </div>
+        <div class="step-item">
+          <div class="step-number">3</div>
+          <div class="step-title">Share on Google</div>
+          <div class="step-desc">Copy your favorite review and post directly on Google</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="poster-footer">
+      <div class="insta-connect">
+        <div class="insta-gradient-icon">
+          <svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+        </div>
+        <span>Follow us on Instagram: @new_kapil_shoes</span>
+      </div>
+
+      <div class="google-badge-text">
+        <span>⭐ Verified Google Review Link</span>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    // Ensure QR code encodes current host if accessed on local network
+    const host = window.location.origin;
+    const qrImg = document.getElementById('qr-img');
+    qrImg.src = '/api/qr?url=' + encodeURIComponent(host + '/');
+  </script>
+</body>
+</html>
